@@ -1,6 +1,6 @@
 # Awesome-Backdoor-on-LMMs
 
-Awesome-Backdoor-on-LMMs is a collection of state-of-the-art, novel, exciting backdoor methods on LLMs. It contains papers, codes, datasets, evaluations, and analyses. Any additional things regarding jailbreak, PRs, issues are welcome. Any problems, please contact yliu@u.nus.edu. If you find this repository useful to your research or work, it is really appreciated to star this repository and cite our papers [here](#Reference). :sparkles:
+Awesome-Backdoor-on-LMMs is a collection of state-of-the-art, novel, exciting backdoor methods on LLMs. It contains papers, codes, datasets, evaluations, and analyses. Any additional things regarding jailbreak, PRs, issues are welcome. Any problems, please contact wangzhongqi23s@ict.ac.cn. If you find this repository useful to your research or work, it is really appreciated to star this repository and cite our papers [here](#Reference). :sparkles:
 
 ## Reference
 
