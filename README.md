@@ -26,7 +26,7 @@ If you find this repository helpful for your research, we would greatly apprecia
   and Zhang, Jie
   and Shan, Shiguang
   and Chen, Xilin",
-  title="T2IShield: Defending Against Backdoors on Text-to-Image Diffusion Models",
+  title="T2IShield: Defending Against Backdoors on Text-to-Image Diffusion Models",
   booktitle="Computer Vision -- ECCV 2024",
   year="2025",
   publisher="Springer Nature Switzerland",
@@ -38,6 +38,103 @@ If you find this repository helpful for your research, we would greatly apprecia
 
 ## Bookmarks
 
+- [Vision-Language Pretraining Models (VLPs)](#Vision-Language Pretraining Models (VLPs))
+- 
+
 ## Papers
+
+### Vision Language Pretrained Models (VLPs)
+
+#### Backdoor Attack
+
+| Time | Title | Venue |  Paper   |   Code   |
+| ---- | ----- | :---: | :------: | :------: |
+|      |       |       | [link]() | [code]() |
+|      |       |       | [link]() | [code]() |
+|      |       |       | [link]() | [code]() |
+|      |       |       | [link]() | [code]() |
+|      |       |       | [link]() | [code]() |
+|      |       |       | [link]() | [code]() |
+|      |       |       | [link]() | [code]() |
+
+#### Backdoor Defense
+
+| Time | Title | Venue |  Paper   |   Code   |
+| ---- | ----- | :---: | :------: | :------: |
+|      |       |       | [link]() | [code]() |
+|      |       |       | [link]() | [code]() |
+|      |       |       | [link]() | [code]() |
+|      |       |       | [link]() | [code]() |
+|      |       |       | [link]() | [code]() |
+|      |       |       | [link]() | [code]() |
+|      |       |       | [link]() | [code]() |
+
+### Text Conditioned Diffusion Models (TDMs)
+
+#### Backdoor Attack
+
+| Time | Title | Venue |  Paper   |   Code   |
+| ---- | ----- | :---: | :------: | :------: |
+|      |       |       | [link]() | [code]() |
+|      |       |       | [link]() | [code]() |
+|      |       |       | [link]() | [code]() |
+|      |       |       | [link]() | [code]() |
+|      |       |       | [link]() | [code]() |
+|      |       |       | [link]() | [code]() |
+|      |       |       | [link]() | [code]() |
+
+#### Backdoor Defense
+
+| Time | Title | Venue |  Paper   |   Code   |
+| ---- | ----- | :---: | :------: | :------: |
+|      |       |       | [link]() | [code]() |
+|      |       |       | [link]() | [code]() |
+|      |       |       | [link]() | [code]() |
+|      |       |       | [link]() | [code]() |
+|      |       |       | [link]() | [code]() |
+|      |       |       | [link]() | [code]() |
+|      |       |       | [link]() | [code]() |
+
+### Large Vision Language Models (LVLMs)
+
+#### Backdoor Attack
+
+| Time | Title | Venue |  Paper   |   Code   |
+| ---- | ----- | :---: | :------: | :------: |
+|      |       |       | [link]() | [code]() |
+|      |       |       | [link]() | [code]() |
+|      |       |       | [link]() | [code]() |
+|      |       |       | [link]() | [code]() |
+|      |       |       | [link]() | [code]() |
+|      |       |       | [link]() | [code]() |
+|      |       |       | [link]() | [code]() |
+
+#### Backdoor Defense
+
+| Time | Title | Venue |  Paper   |   Code   |
+| ---- | ----- | :---: | :------: | :------: |
+|      |       |       | [link]() | [code]() |
+|      |       |       | [link]() | [code]() |
+|      |       |       | [link]() | [code]() |
+|      |       |       | [link]() | [code]() |
+|      |       |       | [link]() | [code]() |
+|      |       |       | [link]() | [code]() |
+|      |       |       | [link]() | [code]() |
+
+### VLM-based Embodied AI
+
+#### Backdoor Attack
+
+| Time    | Title                                                        |  Venue   |                            Paper                             |                        Code                         |
+| ------- | ------------------------------------------------------------ | :------: | :----------------------------------------------------------: | :-------------------------------------------------: |
+| 2025.05 | **BadVLA: Towards Backdoor Attacks on Vision-Language-Action Models via Objective-Decoupled Optimization** |  Arxiv   |           [link](https://arxiv.org/abs/2505.16640)           |     [code](https://github.com/Zxy-MLlab/BadVLA)     |
+| 2025.10 | **TabVLA: Targeted Backdoor Attacks on Vision-Language-Action Models** |  Arxiv   |           [link](https://arxiv.org/abs/2510.10932)           |   [code](https://github.com/megaknight114/TabVLA)   |
+| 2025.11 | **AttackVLA: Benchmarking Adversarial and Backdoor Attacks on Vision-Language-Action Models** |  Arxiv   |           [link](https://arxiv.org/abs/2511.12149)           |                          -                          |
+| 2025.05 | **Hidden Ghost Hand: Unveiling Backdoor Vulnerabilities in MLLM-Powered Mobile GUI Agents** | EMNLP’25 |  [link](https://aclanthology.org/2025.findings-emnlp.411/)   |  [code](https://github.com/CTZhou-byte/AgentGhost)  |
+| 2025.06 | **Poison Once, Control Anywhere: Clean-Text Visual Backdoors in VLM-based Mobile Agents** |  Arxiv   |           [link](https://arxiv.org/abs/2506.13205)           |                          -                          |
+| 2025.07 | **VisualTrap: A Stealthy Backdoor Attack on GUI Agents via Visual Grounding Manipulation** | COLM‘25  | [link](https://openreview.net/forum?id=7HPuAkgdVm#discussion) |    [code](https://github.com/whi497/VisualTrap)     |
+| 2025.09 | **Realistic Environmental Injection Attacks on GUI Agents**  |  Arxiv   |           [link](https://arxiv.org/abs/2509.11250)           | [code](https://github.com/zhangyitonggg/attack2gui) |
+
+
 
 ## Other Related Awesome Repository
