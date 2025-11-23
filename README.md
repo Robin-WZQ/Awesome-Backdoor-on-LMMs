@@ -111,15 +111,11 @@ If you find this repository helpful for your research, we would greatly apprecia
 
 #### Backdoor Defense
 
-| Time | Title | Venue |  Paper   |   Code   |
-| ---- | ----- | :---: | :------: | :------: |
-|      |       |       | [link]() | [code]() |
-|      |       |       | [link]() | [code]() |
-|      |       |       | [link]() | [code]() |
-|      |       |       | [link]() | [code]() |
-|      |       |       | [link]() | [code]() |
-|      |       |       | [link]() | [code]() |
-|      |       |       | [link]() | [code]() |
+| Time    | Title                                                        |   Venue    |                       Paper                        |                    Code                    |
+| ------- | ------------------------------------------------------------ | :--------: | :------------------------------------------------: | :----------------------------------------: |
+| 2025.05 | **Backdoor Cleaning without External Guidance in MLLM Fine-tuning** | NeurIPS‘25 | [link](https://openreview.net/forum?id=os4QYDf3Ms) | [code](https://github.com/XuankunRong/BYE) |
+| 2025.06 | **ROBUST ANTI-BACKDOOR INSTRUCTION TUNING IN LVLMS**         |   Arxiv    |      [link](https://arxiv.org/abs/2506.05401)      |                     -                      |
+| 2025.06 | **SRD: Reinforcement-Learned Semantic Perturbation**         |  AAAI'26   |    [link](https://www.arxiv.org/abs/2506.04743)    |   [code](https://github.com/Ciconey/SRD)   |
 
 ### VLM-based Embodied AI
 
