@@ -143,3 +143,9 @@ If you find this repository helpful for your research, we would greatly apprecia
 
 
 ## Other Related Awesome Repository
+
+- [Awesome Data Poisoning and Backdoor Attacks](https://github.com/penghui-yang/awesome-data-poisoning-and-backdoor-attacks)
+- [Awesome-Backdoor-in-Deep-Learning](https://github.com/zihao-ai/Awesome-Backdoor-in-Deep-Learning)
+- [Backdoor Learning Resources](Backdoor Learning Resources)
+- [Awesome-LVLM-Attack](https://github.com/liudaizong/Awesome-LVLM-Attack/tree/main)
+- [Awesome-Large-Model-Safety](https://github.com/xingjunm/Awesome-Large-Model-Safety)
