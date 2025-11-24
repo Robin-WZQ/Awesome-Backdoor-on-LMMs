@@ -48,8 +48,8 @@ If you find this repository helpful for your research, we would greatly apprecia
 #### Backdoor Attack
 
 | Time | Title | Venue |  Paper   |   Code   |
-| ---- | ----- | :---: | :------: | :------: |
-| 2021.07     |   BadEncoder: Backdoor Attacks to Pre-trained  Encoders in Self-Supervised Learning    |    IEEE'22   | [link]() | [code]() |
+| ----------- | ----- | :---: | :------: | :------: |
+| 2021.07     |   BadEncoder: Backdoor Attacks to Pre-trained  Encoders in Self-Supervised Learning    |    IEEE'22   | [link](https://ieeexplore.ieee.org/document/9833644) | [code]() |
 |      |       |       | [link]() | [code]() |
 |      |       |       | [link]() | [code]() |
 |      |       |       | [link]() | [code]() |
