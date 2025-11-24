@@ -64,10 +64,10 @@ If you find this repository helpful for your research, we would greatly apprecia
 | ---- | ----- | :---: | :------: | :------: |
 |  2023.03    |   CleanCLIP: Mitigating Data Poisoning Attacks in  Multimodal Contrastive Learning    |   ICCV'23    | [link](https://openaccess.thecvf.com/content/ICCV2023/html/Bansal_CleanCLIP_Mitigating_Data_Poisoning_Attacks_in_Multimodal_Contrastive_Learning_ICCV_2023_paper.html) | [code](https://github.com/nishadsinghi/CleanCLIP) |
 | 2023.03     |   Robust Contrastive Language-Image Pre-training against Data Poisoning and Backdoor Attacks    |   NeurIPS'23     | [link](https://proceedings.neurips.cc/paper_files/paper/2023/hash/2232e8fee69b150005ac420bfa83d705-Abstract-Conference.html) | - |
-| 2023.09     |   On Evaluating Adversarial Robustness of Large Vision-Language Models    |  NeurIPS'23     | [link](https://proceedings.neurips.cc/paper_files/paper/2023/hash/a97b58c4f7551053b0512f92244b0810-Abstract-Conference.html) | [code]() |
-|      |       |       | [link]() | [code]() |
-|      |       |       | [link]() | [code]() |
-|      |       |       | [link]() | [code]() |
+| 2023.09     |   On Evaluating Adversarial Robustness of Large Vision-Language Models    |  NeurIPS'23     | [link](https://proceedings.neurips.cc/paper_files/paper/2023/hash/a97b58c4f7551053b0512f92244b0810-Abstract-Conference.html) | [code]( yunqing-me.github.io/AttackVLM/.) |
+| 2024.03    | Unlearning Backdoor Threats: Enhancing Backdoor Defense in Multimodal Contrastive Learning via Local Token Unlearning      |   arxov    | [link](https://arxiv.org/abs/2403.16257) | - |
+| 2024.06    |  Chain-of-Scrutiny: Detecting Backdoor Attacks for Large Language Models     |   ACL Anthology'25    | [link](https://aclanthology.org/2025.findings-acl.401/) |-|
+| 2024.07     |   BackdoorBench: A Comprehensive Benchmark and Analysis of Backdoor Learning    |    IJCV'25    | [link](https://link.springer.com/article/10.1007/s11263-025-02447-x) | [code]( https://github.com/SCLBD/BackdoorBench) |
 |      |       |       | [link]() | [code]() |
 
 ### Text Conditioned Diffusion Models (TDMs)
