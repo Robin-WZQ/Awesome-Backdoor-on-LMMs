@@ -101,21 +101,21 @@ If you find this repository helpful for your research, we would greatly apprecia
 
 | Time    | Title                                                        |   Venue    |                            Paper                             |                           Code                           |
 | ------- | ------------------------------------------------------------ | :--------: | :----------------------------------------------------------: | :------------------------------------------------------: |
-| 2024.02 | **Shadowcast: Stealthy Data Poisoning Attacks against Vision-Language Models** | NeurIPS'24 |      [link](https://openreview.net/forum?id=JhqyeppMiD)      |   [code]([Shadowcast](https://vlm-poison.github.io/))    |
+| 2024.02 | **Shadowcast: Stealthy Data Poisoning Attacks against Vision-Language Models** | NeurIPS'24 |      [link](https://openreview.net/forum?id=JhqyeppMiD)      |          [code](https://vlm-poison.github.io/)           |
 | 2024.02 | **VL-Trojan: Multimodal Instruction Backdoor Attacks against Autoregressive Visual Language Models** |  IJCV'25   | [link](https://link.springer.com/article/10.1007/s11263-025-02368-9) |     [code](https://github.com/JWLiang007/VL-Trojan)      |
+| 2024.02 | ***Test-Time* BACKDOOR ATTACKS ON MULTIMODAL LARGE LANGUAGE MODELS** |   Arxiv    |          [link](https://github.com/sail-sg/AnyDoor)          |        [code](https://github.com/sail-sg/AnyDoor)        |
 | 2024.03 | **ImgTrojan: Jailbreaking Vision-Language Models with ONE Image** |  NAACL'25  |    [link](https://aclanthology.org/2025.naacl-long.360/)     |      [code](https://github.com/xijia-tao/ImgTrojan)      |
+| 2024.03 | **TrojVLM: Backdoor Attack Against Vision Language Models**  |  ECCV'24   | [link](https://link.springer.com/chapter/10.1007/978-3-031-73650-6_27) |                            -                             |
+| 2024.04 | **PHYSICAL BACKDOOR ATTACK CAN JEOPARDIZE DRIVING WITH VISION-LARGE-LANGUAGE MODELS** |  ICMLW'24  |          [link](https://icml.cc/virtual/2024/38112)          |                            -                             |
 | 2024.06 | **Revisiting Backdoor Attacks against Large Vision-Language Models from Domain Shift** |  CVPR'25   | [link](https://www.computer.org/csdl/proceedings-article/cvpr/2025/436400j477/2999SblAZlC) |      [code](https://github.com/LiangSiyuan21/MABA)       |
+| 2024.10 | **BACKDOORING VISION-LANGUAGE MODELS WITH OUT-OF-DISTRIBUTION DATA** |  ICLR'25   |      [link](https://openreview.net/forum?id=tZozeR3VV7)      |                            -                             |
 | 2025.02 | **Stealthy Backdoor Attack in Self-Supervised Learning Vision Encoders for Large Vision Language Models** |  CVPR'25   |    [link](https://ieeexplore.ieee.org/document/11092582)     |       [code](https://github.com/6zHAOyi/BadVision)       |
 | 2025.03 | **BadToken: Token-level Backdoor Attacks to Multi-modal Large Language Models** |  CVPR'25   | [link](https://www.computer.org/csdl/proceedings-article/cvpr/2025/436400ae927/299buyfnYBy) |                            -                             |
-| 2024.10 | **BACKDOORING VISION-LANGUAGE MODELS WITH OUT-OF-DISTRIBUTION DATA** |  ICLR'25   |      [link](https://openreview.net/forum?id=tZozeR3VV7)      |                            -                             |
-| 2024.02 | ***Test-Time* BACKDOOR ATTACKS ON MULTIMODAL LARGE LANGUAGE MODELS** |   Arxiv    |          [link](https://github.com/sail-sg/AnyDoor)          |        [code](https://github.com/sail-sg/AnyDoor)        |
-| 2024.04 | **PHYSICAL BACKDOOR ATTACK CAN JEOPARDIZE DRIVING WITH VISION-LARGE-LANGUAGE MODELS** |  ICMLW'24  |          [link](https://icml.cc/virtual/2024/38112)          |                            -                             |
-| 2024.03 | **TrojVLM: Backdoor Attack Against Vision Language Models**  |  ECCV'24   | [link](https://link.springer.com/chapter/10.1007/978-3-031-73650-6_27) |                            -                             |
-| 2025.09 | **TokenSwap: Backdoor Attack on the Compositional Understanding of Large Vision-Language Models** |   Arxiv    |           [link](https://arxiv.org/abs/2509.24566)           | [code](https://anonymous.4open.science/r/tokenswap-341F) |
-| 2025.08 | **IAG: Input-aware Backdoor Attack on VLMs for Visual Grounding** |   Arxiv    |           [link](https://arxiv.org/abs/2508.09456)           |                            -                             |
-| 2025.07 | **Shadow-Activated Backdoor Attacks on Multimodal Large Language Models** |   ACL'25   |   [link](https://aclanthology.org/2025.findings-acl.248/)    |      [code](https://github.com/ericyinyzy/BadMLLM)       |
 | 2025.05 | **Natural Reflection Backdoor Attack on Vision Language Model for Autonomous Driving** |   Arxiv    |           [link](https://arxiv.org/abs/2505.06413)           |                            -                             |
 | 2025.06 | **Backdoor Attack on Vision Language Models with Stealthy Semantic Manipulation** |   Arxiv    |           [link](https://arxiv.org/abs/2506.07214)           |                                                          |
+| 2025.07 | **Shadow-Activated Backdoor Attacks on Multimodal Large Language Models** |   ACL'25   |   [link](https://aclanthology.org/2025.findings-acl.248/)    |      [code](https://github.com/ericyinyzy/BadMLLM)       |
+| 2025.08 | **IAG: Input-aware Backdoor Attack on VLMs for Visual Grounding** |   Arxiv    |           [link](https://arxiv.org/abs/2508.09456)           |                            -                             |
+| 2025.09 | **TokenSwap: Backdoor Attack on the Compositional Understanding of Large Vision-Language Models** |   Arxiv    |           [link](https://arxiv.org/abs/2509.24566)           | [code](https://anonymous.4open.science/r/tokenswap-341F) |
 
 
 #### Backdoor Defense
