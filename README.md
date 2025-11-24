@@ -55,15 +55,15 @@ If you find this repository helpful for your research, we would greatly apprecia
 |  2022.09  |    Data Poisoning Attacks Against Multimodal Encoders   | ICML'23     | [link](https://proceedings.mlr.press/v202/yang23f.html) | [code](https://github.com/zqypku/mm_poison/) |
 | 2023.10     |    GhostEncoder: Stealthy backdoor attacks with dynamic triggers to pre-trained encoders in self-supervised learning   |  CS'24     | [link](https://www.sciencedirect.com/science/article/abs/pii/S0167404824001561) | - |
 | 2023.11     |   BadCLIP: Dual-Embedding Guided Backdoor Attack on  Multimodal Contrastive Learning    | CVPR'24      | [link](https://openaccess.thecvf.com/content/CVPR2024/html/Liang_BadCLIP_Dual-Embedding_Guided_Backdoor_Attack_on_Multimodal_Contrastive_Learning_CVPR_2024_paper.html) | [code](https://github.com/LiangSiyuan21/BadCLIP) |
-|      | MP-Nav: Enhancing Data Poisoning Attacks against Multimodal Learning      |       | [link]() | [code]() |
+|  2025.03   | MP-Nav: Enhancing Data Poisoning Attacks against Multimodal Learning      |  ICML'25     | [link](https://openreview.net/forum?id=zy7VeNtSLM) | - |
 | 2025.03     |   Backdooring CLIP through Concept Confusion    |    arXiv   |[link](https://arxiv.org/abs/2503.09095)  | - |
-|      |  Distribution Preserving Backdoor Attack in Self-supervised Learning     |       |[link]() | [code]() |
+| 2024.05     |  Distribution Preserving Backdoor Attack in Self-supervised Learning     |  IEEE'24     |[link](https://ieeexplore.ieee.org/abstract/document/10646825) |-|
 #### Backdoor Defense
 
 | Time | Title | Venue |  Paper   |   Code   |
 | ---- | ----- | :---: | :------: | :------: |
-|      |       |       | [link]() | [code]() |
-|      |       |       | [link]() | [code]() |
+|  2023.03    |   CleanCLIP: Mitigating Data Poisoning Attacks in  Multimodal Contrastive Learning    |   ICCV'23    | [link](https://openaccess.thecvf.com/content/ICCV2023/html/Bansal_CleanCLIP_Mitigating_Data_Poisoning_Attacks_in_Multimodal_Contrastive_Learning_ICCV_2023_paper.html) | [code](https://github.com/nishadsinghi/CleanCLIP) |
+| 2023.03     |   Robust Contrastive Language-Image Pre-training against Data Poisoning and Backdoor Attacks    |   NeurIPS'23     | [link](https://proceedings.neurips.cc/paper_files/paper/2023/hash/2232e8fee69b150005ac420bfa83d705-Abstract-Conference.html) | - |
 |      |       |       | [link]() | [code]() |
 |      |       |       | [link]() | [code]() |
 |      |       |       | [link]() | [code]() |
