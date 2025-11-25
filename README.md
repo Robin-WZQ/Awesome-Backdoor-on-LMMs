@@ -75,6 +75,7 @@ If you find this repository helpful for your research, we would greatly apprecia
 |2024.12     |Defending Multimodal Backdoored Models by Repulsive Visual Prompt Tuning| Arxiv| [link](https://arxiv.org/abs/2412.20392)| - |
 |2024.12     | DETECTING BACKDOOR SAMPLES IN CONTRASTIVE LANGUAGE IMAGE PRETRAINING| ICLR'25|[link](https://iclr.cc/virtual/2025/poster/30032) | [code](https://github.com/HanxunH/Detect-CLIP-Backdoor-Samples) |
 |2024.12     |Perturb and Recover: Fine-tuning for Effective Backdoor Removal from CLIP|Arxiv| [link](https://arxiv.org/abs/2412.00727) | [code](https://github.com/nmndeep/PerturbAndRecover) |
+| 2025.02    |Neural Antidote: Class-Wise Prompt Tuning for Purifying Backdoors in CLIP|Arxiv| [link](https://arxiv.org/abs/2502.19269) |-|
 
  Defense in Contrastive Learning
 ### Text Conditioned Diffusion Models (TDMs)
