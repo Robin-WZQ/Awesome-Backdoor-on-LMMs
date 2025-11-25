@@ -74,6 +74,7 @@ If you find this repository helpful for your research, we would greatly apprecia
 |2024.11     | DeDe: Detecting Backdoor Samples for SSL Encoders via Decoders| CVPR'25| [link](https://openaccess.thecvf.com/content/CVPR2025/html/Hou_DeDe_Detecting_Backdoor_Samples_for_SSL_Encoders_via_Decoders_CVPR_2025_paper.html) |-|
 |2024.12     |Defending Multimodal Backdoored Models by Repulsive Visual Prompt Tuning| Arxiv| [link](https://arxiv.org/abs/2412.20392)| - |
 |2024.12     | DETECTING BACKDOOR SAMPLES IN CONTRASTIVE LANGUAGE IMAGE PRETRAINING| ICLR'25|[link](https://iclr.cc/virtual/2025/poster/30032) | [code](https://github.com/HanxunH/Detect-CLIP-Backdoor-Samples) |
+|2024.12     |Perturb and Recover: Fine-tuning for Effective Backdoor Removal from CLIP|Arxiv| [link](https://arxiv.org/abs/2412.00727) | [code](https://github.com/nmndeep/PerturbAndRecover) |
 
  Defense in Contrastive Learning
 ### Text Conditioned Diffusion Models (TDMs)
