@@ -68,7 +68,7 @@ If you find this repository helpful for your research, we would greatly apprecia
 | 2023.10   |  Better Safe than Sorry: Pre-training CLIP against Targeted Data Poisoning and Backdoor Attacks   | Arxiv   | [link](https://arxiv.org/abs/2310.05862) | [code](https://github.com/BigML-CS-UCLA/SafeCLIP)|
  | 2024.03    | Unlearning Backdoor Threats: Enhancing Backdoor Defense in Multimodal Contrastive Learning via Local Token Unlearning      |   Arxiv    | [link](https://arxiv.org/abs/2403.16257) | - |
 | 2024.09     | Adversarial Backdoor Defense in CLIP      |  Arxiv     | [link](https://arxiv.org/abs/2409.15968) | - |
-| 2024.09     | CleanerCLIP: Fine-grained Counterfactual Semantic Augmentation for Backdoor| arxiv | [link](https://arxiv.org/abs/2409.17601) | - |
+| 2024.09     | CleanerCLIP: Fine-grained Counterfactual Semantic Augmentation for Backdoor| Arxiv | [link](https://arxiv.org/abs/2409.17601) | - |
 |2024.11     |Semantic Shield: Defending Vision-Language Models Against Backdooring and Poisoning via Fine-grained Knowledge Alignment| CVPR'24| [link](https://openaccess.thecvf.com/content/CVPR2024/html/Ishmam_Semantic_Shield_Defending_Vision-Language_Models_Against_Backdooring_and_Poisoning_via_CVPR_2024_paper.html) | [code](https://github.com/IshmamAlvi/Semantic-Shield) |
 |2024.12     |Defending Multimodal Backdoored Models by Repulsive Visual Prompt Tuning| Arxiv| [link](https://arxiv.org/abs/2412.20392)| - |
 |2024.12     | DETECTING BACKDOOR SAMPLES IN CONTRASTIVE LANGUAGE IMAGE PRETRAINING| ICLR'25|[link](https://iclr.cc/virtual/2025/poster/30032) | [code](https://github.com/HanxunH/Detect-CLIP-Backdoor-Samples) |
