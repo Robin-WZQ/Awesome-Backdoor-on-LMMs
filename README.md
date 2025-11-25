@@ -67,7 +67,6 @@ If you find this repository helpful for your research, we would greatly apprecia
 | 2023.03    |  Detecting Backdoors in Pre-trained Encoders  |  CVPR'23    | [link](https://openaccess.thecvf.com/content/CVPR2023/html/Feng_Detecting_Backdoors_in_Pre-Trained_Encoders_CVPR_2023_paper.html) | [code](https://github.com/GiantSeaweed/DECREE) |
 | 2023.10   |  Better Safe than Sorry: Pre-training CLIP against Targeted Data Poisoning and Backdoor Attacks   | arxiv   | [link](https://arxiv.org/abs/2310.05862) | [code](https://github.com/BigML-CS-UCLA/SafeCLIP)|
  | 2024.03    | Unlearning Backdoor Threats: Enhancing Backdoor Defense in Multimodal Contrastive Learning via Local Token Unlearning      |   arxiv    | [link](https://arxiv.org/abs/2403.16257) | - |
- 
 | 2024.07     |   BackdoorBench: A Comprehensive Benchmark and Analysis of Backdoor Learning    |    IJCV'25    | [link](https://link.springer.com/article/10.1007/s11263-025-02447-x) | [code]( https://github.com/SCLBD/BackdoorBench) |
 | 2024.09     | Adversarial Backdoor Defense in CLIP      |  arxiv     | [link](https://arxiv.org/abs/2409.15968) | - |
 | 2024.09     | CleanerCLIP: Fine-grained Counterfactual Semantic Augmentation for Backdoor| arxiv | [link](https://arxiv.org/abs/2409.17601) | - |
