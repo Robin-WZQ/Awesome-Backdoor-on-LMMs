@@ -56,7 +56,7 @@ If you find this repository helpful for your research, we would greatly apprecia
 | 2023.10     |    GhostEncoder: Stealthy backdoor attacks with dynamic triggers to pre-trained encoders in self-supervised learning   |  CS'24     | [link](https://www.sciencedirect.com/science/article/abs/pii/S0167404824001561) | - |
 | 2023.11     |   BadCLIP: Dual-Embedding Guided Backdoor Attack on  Multimodal Contrastive Learning    | CVPR'24      | [link](https://openaccess.thecvf.com/content/CVPR2024/html/Liang_BadCLIP_Dual-Embedding_Guided_Backdoor_Attack_on_Multimodal_Contrastive_Learning_CVPR_2024_paper.html) | [code](https://github.com/LiangSiyuan21/BadCLIP) |
 |  2025.03   | MP-Nav: Enhancing Data Poisoning Attacks against Multimodal Learning      |  ICML'25     | [link](https://openreview.net/forum?id=zy7VeNtSLM) | - |
-| 2025.03     |   Backdooring CLIP through Concept Confusion    |    arXiv   |[link](https://arxiv.org/abs/2503.09095)  | - |
+| 2025.03     |   Backdooring CLIP through Concept Confusion    |    Arxiv   |[link](https://arxiv.org/abs/2503.09095)  | - |
 | 2024.05     |  Distribution Preserving Backdoor Attack in Self-supervised Learning     |  SSP'24     |[link](https://ieeexplore.ieee.org/abstract/document/10646825) |-|
 #### Backdoor Defense
 
