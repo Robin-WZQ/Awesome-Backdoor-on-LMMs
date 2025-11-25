@@ -62,6 +62,7 @@ If you find this repository helpful for your research, we would greatly apprecia
 
 | Time | Title | Venue |  Paper   |   Code   |
 | ---- | ----- | :---: | :------: | :------: |
+|  2023.02    |ASSET: Robust Backdoor Data Detection Across a Multiplicity of Deep Learning Paradigms |USENIX'23| [link](https://www.usenix.org/conference/usenixsecurity23/presentation/pan) | [code](https://github.com/ruoxi-jia-group/ASSET) |
 |  2023.03    |   CleanCLIP: Mitigating Data Poisoning Attacks in  Multimodal Contrastive Learning    |   ICCV'23    | [link](https://openaccess.thecvf.com/content/ICCV2023/html/Bansal_CleanCLIP_Mitigating_Data_Poisoning_Attacks_in_Multimodal_Contrastive_Learning_ICCV_2023_paper.html) | [code](https://github.com/nishadsinghi/CleanCLIP) |
 | 2023.03     |   Robust Contrastive Language-Image Pre-training against Data Poisoning and Backdoor Attacks    |   NeurIPS'23     | [link](https://proceedings.neurips.cc/paper_files/paper/2023/hash/2232e8fee69b150005ac420bfa83d705-Abstract-Conference.html) | - |
 | 2023.03    |  Detecting Backdoors in Pre-trained Encoders  |  CVPR'23    | [link](https://openaccess.thecvf.com/content/CVPR2023/html/Feng_Detecting_Backdoors_in_Pre-Trained_Encoders_CVPR_2023_paper.html) | [code](https://github.com/GiantSeaweed/DECREE) |
