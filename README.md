@@ -65,8 +65,7 @@ If you find this repository helpful for your research, we would greatly apprecia
 |  2023.03    |   CleanCLIP: Mitigating Data Poisoning Attacks in  Multimodal Contrastive Learning    |   ICCV'23    | [link](https://openaccess.thecvf.com/content/ICCV2023/html/Bansal_CleanCLIP_Mitigating_Data_Poisoning_Attacks_in_Multimodal_Contrastive_Learning_ICCV_2023_paper.html) | [code](https://github.com/nishadsinghi/CleanCLIP) |
 | 2023.03     |   Robust Contrastive Language-Image Pre-training against Data Poisoning and Backdoor Attacks    |   NeurIPS'23     | [link](https://proceedings.neurips.cc/paper_files/paper/2023/hash/2232e8fee69b150005ac420bfa83d705-Abstract-Conference.html) | - |
 | 2023.03    |  Detecting Backdoors in Pre-trained Encoders  |  CVPR'23    | [link](https://openaccess.thecvf.com/content/CVPR2023/html/Feng_Detecting_Backdoors_in_Pre-Trained_Encoders_CVPR_2023_paper.html) | [code](https://github.com/GiantSeaweed/DECREE) |
-| 2023.10   |  Better Safe than Sorry: Pre-training CLIP against
- Targeted Data Poisoning and Backdoor Attacks   | arxiv   | [link](https://arxiv.org/abs/2310.05862) | [code](https://github.com/BigML-CS-UCLA/SafeCLIP)|
+| 2023.10   |  Better Safe than Sorry: Pre-training CLIP against Targeted Data Poisoning and Backdoor Attacks   | arxiv   | [link](https://arxiv.org/abs/2310.05862) | [code](https://github.com/BigML-CS-UCLA/SafeCLIP)|
  | 2024.03    | Unlearning Backdoor Threats: Enhancing Backdoor Defense in Multimodal Contrastive Learning via Local Token Unlearning      |   arxiv    | [link](https://arxiv.org/abs/2403.16257) | - |
  
 | 2024.07     |   BackdoorBench: A Comprehensive Benchmark and Analysis of Backdoor Learning    |    IJCV'25    | [link](https://link.springer.com/article/10.1007/s11263-025-02447-x) | [code]( https://github.com/SCLBD/BackdoorBench) |
