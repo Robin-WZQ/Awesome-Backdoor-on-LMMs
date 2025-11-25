@@ -68,8 +68,11 @@ If you find this repository helpful for your research, we would greatly apprecia
 | 2024.03    | Unlearning Backdoor Threats: Enhancing Backdoor Defense in Multimodal Contrastive Learning via Local Token Unlearning      |   arxov    | [link](https://arxiv.org/abs/2403.16257) | - |
 | 2024.06    |  Chain-of-Scrutiny: Detecting Backdoor Attacks for Large Language Models     |   ACL Anthology'25    | [link](https://aclanthology.org/2025.findings-acl.401/) |-|
 | 2024.07     |   BackdoorBench: A Comprehensive Benchmark and Analysis of Backdoor Learning    |    IJCV'25    | [link](https://link.springer.com/article/10.1007/s11263-025-02447-x) | [code]( https://github.com/SCLBD/BackdoorBench) |
-|      |       |       | [link]() | [code]() |
+| 2024.09     | Adversarial Backdoor Defense in CLIP      |  arxiv     | [link](https://arxiv.org/abs/2409.15968) | - |
+| 2024.09     | CleanerCLIP: Fine-grained Counterfactual Semantic Augmentation for Backdoor| arxiv | [link](https://arxiv.org/abs/2409.17601) | - |
+| 2024.10     | CROSS-MODAL SAFETY MECHANISM TRANSFER IN LARGE VISION-LANGUAGE MODELS | ICLR'25|[link](https://openreview.net/forum?id=BLgAlTbg3L) | [code](https://github.com/xsc1234/VLM_Safety_Transfer) |
 
+ Defense in Contrastive Learning
 ### Text Conditioned Diffusion Models (TDMs)
 
 #### Backdoor Attack
