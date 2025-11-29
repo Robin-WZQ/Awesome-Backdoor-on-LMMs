@@ -38,7 +38,7 @@ If you find this repository helpful for your research, we would greatly apprecia
 
 ## Bookmarks
 
-- [Vision-Language Pretraining Models (VLPs)](#Vision-Language Pretraining Models (VLPs))
+- [Vision Language Pretrained Models (VLPs)](#Vision-Language-Pretrained-Models)
 - 
 
 ## Papers
