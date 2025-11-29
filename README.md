@@ -39,7 +39,9 @@ If you find this repository helpful for your research, we would greatly apprecia
 ## Bookmarks
 
 - [Vision Language Pretrained Models (VLPs)](#Vision-Language-Pretrained-Models)
-- 
+- [Text Conditioned Diffusion Models (TDMs)](#Text-Conditioned-Diffusion-Models)
+- [Large Vision Language Models (LVLMs)](#Large-Vision-Language-Models)
+- [VLM-based Embodied AI](#VLM-based-Embodied-AI)
 
 ## Papers
 
@@ -78,7 +80,7 @@ If you find this repository helpful for your research, we would greatly apprecia
 | 2025.02    |Neural Antidote: Class-Wise Prompt Tuning for Purifying Backdoors in CLIP|Arxiv| [link](https://arxiv.org/abs/2502.19269) |-|
 
  Defense in Contrastive Learning
-### Text Conditioned Diffusion Models (TDMs)
+### Text Conditioned Diffusion Models
 
 #### Backdoor Attack
 
@@ -104,7 +106,7 @@ If you find this repository helpful for your research, we would greatly apprecia
 |      |       |       | [link]() | [code]() |
 |      |       |       | [link]() | [code]() |
 
-### Large Vision Language Models (LVLMs)
+### Large Vision Language Models
 
 #### Backdoor Attack
 
