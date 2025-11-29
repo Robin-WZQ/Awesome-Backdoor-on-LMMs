@@ -43,7 +43,7 @@ If you find this repository helpful for your research, we would greatly apprecia
 
 ## Papers
 
-### Vision Language Pretrained Models (VLPs)
+### Vision Language Pretrained Models
 
 #### Backdoor Attack
 
