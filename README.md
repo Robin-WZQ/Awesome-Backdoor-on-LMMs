@@ -51,15 +51,16 @@ If you find this repository helpful for your research, we would greatly apprecia
 
 | Time | Title | Venue |  Paper   |   Code   |
 | ----------- | ----- | :---: | :------: | :------: |
-| 2021.07     |   BadEncoder: Backdoor Attacks to Pre-trained  Encoders in Self-Supervised Learning    |    SSP'22   | [link](https://ieeexplore.ieee.org/document/9833644) | [code](https://github.com/jinyuan-jia/BadEncoder) |
 |  2021.06    | POISONING AND BACKDOORING CONTRASTIVE LEARNING  |  Arxiv     | [link](https://arxiv.org/abs/2106.09667v2) | - |
-|  2024.08   |   BAPLe: Backdoor Attacks on Medical  Foundational Models using Prompt Learning    |   MICCAI'24    | [link](https://papers.miccai.org/miccai-2024/094-Paper3117.html) | [code](https://github.com/asif-hanif/baple) |
+| 2021.07     |   BadEncoder: Backdoor Attacks to Pre-trained  Encoders in Self-Supervised Learning    |    SSP'22   | [link](https://ieeexplore.ieee.org/document/9833644) | [code](https://github.com/jinyuan-jia/BadEncoder) |
 |  2022.09  |    Data Poisoning Attacks Against Multimodal Encoders   | ICML'23     | [link](https://proceedings.mlr.press/v202/yang23f.html) | [code](https://github.com/zqypku/mm_poison/) |
 | 2023.10     |    GhostEncoder: Stealthy backdoor attacks with dynamic triggers to pre-trained encoders in self-supervised learning   |  CS'24     | [link](https://www.sciencedirect.com/science/article/abs/pii/S0167404824001561) | - |
 | 2023.11     |   BadCLIP: Dual-Embedding Guided Backdoor Attack on  Multimodal Contrastive Learning    | CVPR'24      | [link](https://openaccess.thecvf.com/content/CVPR2024/html/Liang_BadCLIP_Dual-Embedding_Guided_Backdoor_Attack_on_Multimodal_Contrastive_Learning_CVPR_2024_paper.html) | [code](https://github.com/LiangSiyuan21/BadCLIP) |
+| 2024.05     |  Distribution Preserving Backdoor Attack in Self-supervised Learning     |  SSP'24     |[link](https://ieeexplore.ieee.org/abstract/document/10646825) |-|
+|  2024.08   |   BAPLe: Backdoor Attacks on Medical  Foundational Models using Prompt Learning    |   MICCAI'24    | [link](https://papers.miccai.org/miccai-2024/094-Paper3117.html) | [code](https://github.com/asif-hanif/baple) |
 |  2025.03   | MP-Nav: Enhancing Data Poisoning Attacks against Multimodal Learning      |  ICML'25     | [link](https://openreview.net/forum?id=zy7VeNtSLM) | - |
 | 2025.03     |   Backdooring CLIP through Concept Confusion    |    Arxiv   |[link](https://arxiv.org/abs/2503.09095)  | - |
-| 2024.05     |  Distribution Preserving Backdoor Attack in Self-supervised Learning     |  SSP'24     |[link](https://ieeexplore.ieee.org/abstract/document/10646825) |-|
+
 #### Backdoor Defense
 
 | Time | Title | Venue |  Paper   |   Code   |
