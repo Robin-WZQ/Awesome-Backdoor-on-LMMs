@@ -97,15 +97,19 @@ If you find this repository helpful for your research, we would greatly apprecia
 
 #### Backdoor Defense
 
-| Time | Title | Venue |  Paper   |   Code   |
-| ---- | ----- | :---: | :------: | :------: |
-|      |       |       | [link]() | [code]() |
-|      |       |       | [link]() | [code]() |
-|      |       |       | [link]() | [code]() |
-|      |       |       | [link]() | [code]() |
-|      |       |       | [link]() | [code]() |
-|      |       |       | [link]() | [code]() |
-|      |       |       | [link]() | [code]() |
+| Time   | Title                                                                                             | Venue      | Paper                                                                                                                        | Code                                                         |
+|--------|------------------------------------------------------------------------------------------------------------------------|-------------|-----------------------------------------------------------------------|----------------------------------------------------------------------|
+| 2024.04 | UFID: A Unified Framework for Black-box Input-level Backdoor Detection on Diffusion Models       | AAAI'25    | [link](https://arxiv.org/abs/2404.01101)                                                                                    | [link](https://github.com/GuanZihan/official_UFID)           |
+| 2024.07 | T2IShield: Defending Against Backdoors on Text-to-Image Diffusion Models                         | ECCV'24    | [link](https://arxiv.org/abs/2407.04215)                                                                                    | [link](https://github.com/Robin-WZQ/T2IShield)               |
+| 2024.08 | Defending Text-to-image Diffusion Models: Surprising Efficacy of Textual Perturbations Against Backdoor Attacks | arXiv      | [link](https://arxiv.org/abs/2408.15721)                                                                                    | [link](https://github.com/oscarchew/t2i-backdoor-defense)    |
+| 2024.11 | Fine-grained Prompt Screening: Defending Against Backdoor Attack on Text-to-Image Diffusion Models | IJCAI'25 | [link](https://www.ijcai.org/proceedings/2025/0068.pdf)                                                                     | -                                                            |
+| 2025.01 | Backdoor Defense for Text Encoders in Text-to-Image Generative Models                      | IEEE TDSC'25 | [link](https://www.computer.org/csdl/journal/tq/2025/06/11112743/28UtsBBMwZa)                                              | [link](https://github.com/Wu-sm/Defense-against-backdoor-attacks-in-text-to-image) |
+| 2025.02 | BackdoorDM: A Comprehensive Benchmark for Backdoor Learning in Diffusion Model                   | NeurIPS'25 | [link](https://arxiv.org/abs/2502.11798)                                                                                    | [link](https://github.com/linweiii/BackdoorDM)               |
+| 2025.03 | Efficient Input-level Backdoor Detection on Text-to-Image Synthesis via Neuron Activation Variation | arXiv    | [link](https://arxiv.org/abs/2503.06453)                                                                                    | -                                                            |
+| 2025.04 | Backdoor Defense in Diffusion Models via Spatial Attention Unlearning                            | arXiv      | [link](https://arxiv.org/abs/2504.18563)                                                                                    | -                                                            |
+| 2025.04 | Dynamic Attention Analysis for Backdoor Detection in Text-to-Image Diffusion Models              | arXiv      | [link](https://arxiv.org/abs/2504.20518)                                                                                    | [link](https://github.com/Robin-WZQ/DAA)                     |
+
+
 
 ### Large Vision Language Models
 
