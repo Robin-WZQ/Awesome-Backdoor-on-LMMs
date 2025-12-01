@@ -80,20 +80,36 @@ If you find this repository helpful for your research, we would greatly apprecia
 |2024.12     |Perturb and Recover: Fine-tuning for Effective Backdoor Removal from CLIP|Arxiv| [link](https://arxiv.org/abs/2412.00727) | [code](https://github.com/nmndeep/PerturbAndRecover) |
 | 2025.02    |Neural Antidote: Class-Wise Prompt Tuning for Purifying Backdoors in CLIP|Arxiv| [link](https://arxiv.org/abs/2502.19269) |-|
 
- Defense in Contrastive Learning
+
 ### Text Conditioned Diffusion Models
 
 #### Backdoor Attack
 
-| Time | Title | Venue |  Paper   |   Code   |
-| ---- | ----- | :---: | :------: | :------: |
-|      |       |       | [link]() | [code]() |
-|      |       |       | [link]() | [code]() |
-|      |       |       | [link]() | [code]() |
-|      |       |       | [link]() | [code]() |
-|      |       |       | [link]() | [code]() |
-|      |       |       | [link]() | [code]() |
-|      |       |       | [link]() | [code]() |
+| Time   | Title                                                                                             | Venue      | Paper                                                                                                                        | Code                                                         |
+|--------|------------------------------------------------------------------------------------------------------------------------|-------------|-----------------------------------------------------------------------|----------------------------------------------------------------------|
+| 2022.11 | Rickrolling the Artist: Injecting Backdoors into Text Encoders for Text-to-Image Synthesis | ICCV'23 | [link](https://arxiv.org/abs/2211.02408) | [link](https://github.com/LukasStruppek/Rickrolling-the-Artist) |
+| 2023.05 | Personalization as a Shortcut for Few-Shot Backdoor Attack against Text-to-Image Diffusion Models | AAAI'24 | [link](https://arxiv.org/abs/2305.10701) | [link](https://github.com/Huang-yihao/Personalization-based_backdoor) |
+| 2023.05 | Text-to-Image Diffusion Models can be Easily Backdoored through Multimodal Data Poisoning | ACM MM'23 | [link](https://arxiv.org/abs/2305.04175) | [link](https://github.com/zhaisf/BadT2I) |
+| 2023.06 | VillanDiffusion: A Unified Backdoor Attack Framework for Diffusion Models | NeurIPS'23 | [link](https://arxiv.org/abs/2306.06874) | [link](https://github.com/IBM/VillanDiffusion) |
+| 2023.07 | BAGM: A Backdoor Attack for Manipulating Text-to-Image Generative Models | TIFS'24 | [link](https://arxiv.org/abs/2307.16489) | [link](https://github.com/JJ-Vice/BAGM) |
+| 2023.08 | Backdooring Textual Inversion for Concept Censorship         | arXiv      | [link](https://arxiv.org/abs/2308.10718)                 | [link](https://github.com/concept-censorship/concept-censorship.github.io) |
+| 2023.10 | Nightshade: Prompt-Specific Poisoning Attacks on Text-to-Image Generative Models | S&P'24     | [link](https://arxiv.org/abs/2310.13828)                 | [link](https://github.com/Shawn-Shan/nightshade-release)     |
+| 2024.01 | The Stronger the Diffusion Model, the Easier the Backdoor: Data Poisoning to Induce Copyright Breaches Without Adjusting Finetuning Pipeline | ICML'24    | [link](https://arxiv.org/abs/2401.04136)                 | [link](https://github.com/haonan3/SilentBadDiffusion)        |
+| 2024.06 | Injecting Bias in Text-To-Image Models via Composite-Trigger Backdoors | arXiv      | [link](https://arxiv.org/abs/2406.15213)                 | -                                                            |
+| 2024.07 | Control ControlNet: Multidimensional Backdoor Attack Based on ControlNet | ICONIP'24  | [link](https://easychair.org/publications/preprint/L1B4) | [link](https://github.com/paoche11/ControlNetBackdoor)       |
+| 2024.10 | EvilEdit: Backdooring Text-to-Image Diffusion Models in One Second | ACM MM'24  | [link](https://dl.acm.org/doi/10.1145/3664647.3680689)   | [link](https://github.com/haowang-cqu/EvilEdit)              |
+| 2024.11 | Combinational Backdoor Attack against Customized Text-to-Image Models | arXiv      | [link](https://arxiv.org/abs/2411.12389)                 | -                                                            |
+| 2024.11 | TrojanEdit: Backdooring Text-Based Image Editing Models      | arXiv      | [link](https://arxiv.org/abs/2411.14681)                 | -                                                            |
+| 2025.02 | Imperceptible Backdoor Attacks on Text-Guided 3D Scene Grounding | TMM'25     | [link](https://dblp.org/rec/journals/tmm/LiuH25)         | -                                                            |
+| 2025.03 | Towards Invisible Backdoor Attack on Text-to-Image Diffusion Model | arXiv      | [link](https://arxiv.org/abs/2503.17724)                 | [link](https://github.com/Robin-WZQ/IBA)                     |
+| 2025.03 | Silent Branding Attack: Trigger-free Data Poisoning Attack on Text-to-Image Diffusion Models | CVPR'25    | [link](https://arxiv.org/abs/2503.09669)                 | [link](https://github.com/agwmon/silent-branding-attack)     |
+| 2025.04 | BadVideo: Stealthy Backdoor Attack against Text-to-Video Generation | ICCV'25    | [link](https://arxiv.org/abs/2504.16907)                 | [link](https://wrt2000.github.io/BadVideo2025/)              |
+| 2025.04 | Erased but Not Forgotten: How Backdoors Compromise Concept Erasure | arXiv      | [link](https://arxiv.org/abs/2504.21072)                 | [link](https://github.com/jonasgrebe/erased-but-not-forgotten) |
+| 2025.04 | REDEditing: Relationship-Driven Precise Backdoor Poisoning on Text-to-Image Diffusion Models | arXiv      | [link](https://arxiv.org/abs/2504.14554)                 | -                                                            |
+| 2025.06 | TWIST: Text-encoder Weight-editing for Inserting Secret Trojans in Text-to-Image Models | ACL'25     | [link](https://aclanthology.org/2025.acl-long.541/)      | -                                                            |
+| 2025.08 | Practical, Generalizable and Robust Backdoor Attacks on Text-to-Image Diffusion Models | arXiv      | [link](https://arxiv.org/abs/2508.01605)                 | -                                                            |
+| 2025.08 | BadBlocks: Low-Cost and Stealthy Backdoor Attacks Tailored for Text-to-Image Diffusion Models | arXiv      | [link](https://arxiv.org/abs/2508.03221)                 | -                                                            |
+
 
 #### Backdoor Defense
 
