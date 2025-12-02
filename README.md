@@ -17,7 +17,7 @@ If you find this repository helpful for your research, we would greatly apprecia
 @article{wang2025dynamicattentionanalysisbackdoor,
   title={Dynamic Attention Analysis for Backdoor Detection in Text-to-Image Diffusion Models}, 
   author={Zhongqi Wang and Jie Zhang and Shiguang Shan and Xilin Chen},
-  journal={arXiv preprint arXiv:2504.20518},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)},
   year={2025},
 }
 
