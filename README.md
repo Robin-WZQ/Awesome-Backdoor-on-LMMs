@@ -7,6 +7,13 @@ Awesome-Backdoor-on-LMMs is a collection of state-of-the-art, novel, exciting ba
 If you find this repository helpful for your research, we would greatly appreciate it if you could cite our papers. :sparkles:
 
 ```
+@article{wang2025amdet,
+  title={Assimilation Matters: Model-level Backdoor Detection in Vision-Language Pretrained Models}, 
+  author={Zhongqi Wang and Jie Zhang and Shiguang Shan and Xilin Chen},
+  journal={arXiv preprint arXiv:2512.00343},
+  year={2025},
+}
+
 @article{wang2025dynamicattentionanalysisbackdoor,
   title={Dynamic Attention Analysis for Backdoor Detection in Text-to-Image Diffusion Models}, 
   author={Zhongqi Wang and Jie Zhang and Shiguang Shan and Xilin Chen},
