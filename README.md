@@ -156,6 +156,8 @@ If you find this repository helpful for your research, we would greatly apprecia
 | 2025.07 | Shadow-Activated Backdoor Attacks on Multimodal Large Language Models |   ACL'25   |   [link](https://aclanthology.org/2025.findings-acl.248/)    |      [code](https://github.com/ericyinyzy/BadMLLM)       |
 | 2025.08 | IAG: Input-aware Backdoor Attack on VLMs for Visual Grounding |   arXiv    |           [link](https://arxiv.org/abs/2508.09456)           |                            -                             |
 | 2025.09 | TokenSwap: Backdoor Attack on the Compositional Understanding of Large Vision-Language Models |   arXiv    |           [link](https://arxiv.org/abs/2509.24566)           | [code](https://anonymous.4open.science/r/tokenswap-341F) |
+| 2025.11 | MTAttack: Multi-Target Backdoor Attacks against Large Vision-LanguageModels | arXiv | [link](https://arxiv.org/abs/2511.10098) | [code](https://github.com/mala-lab/MTAttack) |
+| 2025.11 | BackdoorVLM: A Benchmark for Backdoor Attacks on Vision-Language Models | arXiv | [link](https://arxiv.org/abs/2511.18921) | [code](https://github.com/bin015/BackdoorVLM)|
 
 
 #### Backdoor Defense
