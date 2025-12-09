@@ -93,8 +93,8 @@ If you find this repository helpful for your research, we would greatly apprecia
 
 #### Backdoor Attack
 
-| Time   | Title                                                                                             | Venue      | Paper                                                                                                                        | Code                                                         |
-|--------|------------------------------------------------------------------------------------------------------------------------|-------------|-----------------------------------------------------------------------|----------------------------------------------------------------------|
+| Time | Title | Venue |  Paper   |   Code   |
+| ---- | ----- | :---: | :------: | :------: |
 | 2022.11 | Rickrolling the Artist: Injecting Backdoors into Text Encoders for Text-to-Image Synthesis | ICCV'23 | [link](https://arxiv.org/abs/2211.02408) | [link](https://github.com/LukasStruppek/Rickrolling-the-Artist) |
 | 2023.05 | Personalization as a Shortcut for Few-Shot Backdoor Attack against Text-to-Image Diffusion Models | AAAI'24 | [link](https://arxiv.org/abs/2305.10701) | [link](https://github.com/Huang-yihao/Personalization-based_backdoor) |
 | 2023.05 | Text-to-Image Diffusion Models can be Easily Backdoored through Multimodal Data Poisoning | ACM MM'23 | [link](https://arxiv.org/abs/2305.04175) | [link](https://github.com/zhaisf/BadT2I) |
@@ -121,8 +121,8 @@ If you find this repository helpful for your research, we would greatly apprecia
 
 #### Backdoor Defense
 
-| Time   | Title                                                                                             | Venue      | Paper                                                                                                                        | Code                                                         |
-|--------|------------------------------------------------------------------------------------------------------------------------|-------------|-----------------------------------------------------------------------|----------------------------------------------------------------------|
+| Time | Title | Venue |  Paper   |   Code   |
+| ---- | ----- | :---: | :------: | :------: |
 | 2024.04 | UFID: A Unified Framework for Black-box Input-level Backdoor Detection on Diffusion Models       | AAAI'25    | [link](https://arxiv.org/abs/2404.01101)                                                                                    | [link](https://github.com/GuanZihan/official_UFID)           |
 | 2024.07 | T2IShield: Defending Against Backdoors on Text-to-Image Diffusion Models                         | ECCV'24    | [link](https://arxiv.org/abs/2407.04215)                                                                                    | [link](https://github.com/Robin-WZQ/T2IShield)               |
 | 2024.08 | Defending Text-to-image Diffusion Models: Surprising Efficacy of Textual Perturbations Against Backdoor Attacks | arXiv      | [link](https://arxiv.org/abs/2408.15721)                                                                                    | [link](https://github.com/oscarchew/t2i-backdoor-defense)    |
