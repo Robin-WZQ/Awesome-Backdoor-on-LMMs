@@ -1,4 +1,4 @@
-<h1 align="center">🤗🤗🤗 Awesome-Backdoor-on-LMMs 🤗🤗🤗</h1>
+<h1 align="center">🤗 Awesome-Backdoor-on-LMMs 🤗</h1>
 
 <p align="center"><em>Curated list of backdoor attacks and defenses on Large Multimodal Models (LMMs), aligned with our work:</em><br><strong>Backdoor Attacks and Defenses on Large
 Multimodal Models: A Survey</strong></p>
@@ -11,7 +11,6 @@ Multimodal Models: A Survey</strong></p>
     <a href="https://github.com/Robin-WZQ/Awesome-Backdoor-on-LMMs"><img src="https://img.shields.io/github/stars/Robin-WZQ/Awesome-Backdoor-on-LMMs?style=social" alt="GitHub stars"></a>
 </p>
 
-## 👋 Contact
 
  Any additional things regarding backdoor, PRs, issues are welcome. Any problems, please contact wangzhongqi23s@ict.ac.cn. If you find this repository useful to your research or work, it is really appreciated to star this repository and cite our papers [here](#Reference). :sparkles:
 
