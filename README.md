@@ -11,10 +11,11 @@ Multimodal Models: A Survey</strong></p>
     <a href="https://github.com/Robin-WZQ/Awesome-Backdoor-on-LMMs"><img src="https://img.shields.io/github/stars/Robin-WZQ/Awesome-Backdoor-on-LMMs?style=social" alt="GitHub stars"></a>
 </p>
 
+## 👋 Contact
 
-Awesome-Backdoor-on-LMMs is a collection of state-of-the-art, novel, exciting backdoor methods on Large Multi-modal Models (LMMs). It contains papers, codes, datasets, evaluations, and analyses. Any additional things regarding backdoor, PRs, issues are welcome. Any problems, please contact wangzhongqi23s@ict.ac.cn. If you find this repository useful to your research or work, it is really appreciated to star this repository and cite our papers [here](#Reference). :sparkles:
+ Any additional things regarding backdoor, PRs, issues are welcome. Any problems, please contact wangzhongqi23s@ict.ac.cn. If you find this repository useful to your research or work, it is really appreciated to star this repository and cite our papers [here](#Reference). :sparkles:
 
-## Reference
+## 🥳 Reference
 
 If you find this repository helpful for your research, we would greatly appreciate it if you could cite our papers. :sparkles:
 
