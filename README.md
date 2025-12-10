@@ -1,4 +1,16 @@
-# Awesome-Backdoor-on-LMMs [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+<h1 align="center">🤗🤗🤗 Awesome-Backdoor-on-LMMs 🤗🤗🤗</h1>
+
+<p align="center"><em>Curated list of backdoor attacks and defenses on Large Multimodal Models (LMMs), aligned with our work:</em><br><strong>Backdoor Attacks and Defenses on Large
+Multimodal Models: A Survey</strong></p>
+
+<p align="center">
+    <!-- <a href="https://arxiv.org/abs/2502.14881"><img src="https://img.shields.io/badge/arXiv-2502.14881-b31b1b.svg" alt="arXiv Badge"></a> -->
+    <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome Badge"></a>
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=robin-wzq.awesome-backdoor-on-lmms" alt="visitors"/>
+    <a href="https://creativecommons.org/licenses/by-nc/4.0/"><img src="https://img.shields.io/badge/License-CC_BY--NC_4.0-lightgrey.svg" alt="License Badge"></a>
+    <a href="https://github.com/Robin-WZQ/Awesome-Backdoor-on-LMMs"><img src="https://img.shields.io/github/stars/Robin-WZQ/Awesome-Backdoor-on-LMMs?style=social" alt="GitHub stars"></a>
+</p>
+
 
 Awesome-Backdoor-on-LMMs is a collection of state-of-the-art, novel, exciting backdoor methods on Large Multi-modal Models (LMMs). It contains papers, codes, datasets, evaluations, and analyses. Any additional things regarding backdoor, PRs, issues are welcome. Any problems, please contact wangzhongqi23s@ict.ac.cn. If you find this repository useful to your research or work, it is really appreciated to star this repository and cite our papers [here](#Reference). :sparkles:
 
@@ -43,14 +55,14 @@ If you find this repository helpful for your research, we would greatly apprecia
 }
 ```
 
-## Bookmarks
+## 📜 Table of Contents
 
 - [Vision Language Pretrained Models (VLPs)](#Vision-Language-Pretrained-Models)
 - [Text Conditioned Diffusion Models (TDMs)](#Text-Conditioned-Diffusion-Models)
 - [Large Vision Language Models (LVLMs)](#Large-Vision-Language-Models)
 - [VLM-based Embodied AI](#VLM-based-Embodied-AI)
 
-## Papers
+## 👑 Awesome Papers
 
 ### Vision Language Pretrained Models
 
