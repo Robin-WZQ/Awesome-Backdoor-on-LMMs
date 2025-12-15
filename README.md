@@ -143,7 +143,7 @@ If you find this repository helpful for your research, we would greatly apprecia
 | 2025.02 | BackdoorDM: A Comprehensive Benchmark for Backdoor Learning in Diffusion Model                   | NeurIPS'25 | [link](https://arxiv.org/abs/2502.11798)                                                                                    | [link](https://github.com/linweiii/BackdoorDM)               |
 | 2025.03 | Efficient Input-level Backdoor Detection on Text-to-Image Synthesis via Neuron Activation Variation | arXiv    | [link](https://arxiv.org/abs/2503.06453)                                                                                    | -                                                            |
 | 2025.04 | Backdoor Defense in Diffusion Models via Spatial Attention Unlearning                            | arXiv      | [link](https://arxiv.org/abs/2504.18563)                                                                                    | -                                                            |
-| 2025.04 | Dynamic Attention Analysis for Backdoor Detection in Text-to-Image Diffusion Models              | arXiv      | [link](https://arxiv.org/abs/2504.20518)                                                                                    | [link](https://github.com/Robin-WZQ/DAA)                     |
+| 2025.04 | Dynamic Attention Analysis for Backdoor Detection in Text-to-Image Diffusion Models              | TPAMI'25      | [link](https://arxiv.org/abs/2504.20518)                                                                                    | [link](https://github.com/Robin-WZQ/DAA)                     |
 
 
 
