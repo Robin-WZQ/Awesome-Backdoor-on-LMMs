@@ -19,6 +19,15 @@ Multimodal Models: A Survey</strong></p>
 If you find this repository helpful for your research, we would greatly appreciate it if you could cite our papers. :sparkles:
 
 ```
+@article{Wang_2025,
+title={Backdoor Attacks and Defenses on Large Multimodal Models: A Survey},
+DOI={10.36227/techrxiv.176618816.64264497/v1},
+publisher={Institute of Electrical and Electronics Engineers (IEEE)},
+author={Wang, Zhongqi and Zhang, Jie and Bao, Kexin and Liang, Yifei and Shan, Shiguang and Chen, Xilin},
+year={2025},
+month=dec }
+
+
 @article{wang2025amdet,
   title={Assimilation Matters: Model-level Backdoor Detection in Vision-Language Pretrained Models}, 
   author={Zhongqi Wang and Jie Zhang and Shiguang Shan and Xilin Chen},
