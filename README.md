@@ -4,7 +4,7 @@
 Multimodal Models: A Survey</strong></p>
 
 <p align="center">
-    <!-- <a href="https://arxiv.org/abs/2502.14881"><img src="https://img.shields.io/badge/arXiv-2502.14881-b31b1b.svg" alt="arXiv Badge"></a> -->
+    <a href="https://www.techrxiv.org/doi/full/10.36227/techrxiv.176618816.64264497/v1"><img src="https://img.shields.io/badge/TechRxiv-10.36227-b31b1b.svg" alt="arXiv Badge"></a>
     <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome Badge"></a>
     <img src="https://visitor-badge.laobi.icu/badge?page_id=robin-wzq.awesome-backdoor-on-lmms" alt="visitors"/>
     <a href="https://creativecommons.org/licenses/by-nc/4.0/"><img src="https://img.shields.io/badge/License-CC_BY--NC_4.0-lightgrey.svg" alt="License Badge"></a>
