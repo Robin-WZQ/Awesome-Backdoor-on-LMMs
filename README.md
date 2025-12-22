@@ -27,7 +27,6 @@ author={Wang, Zhongqi and Zhang, Jie and Bao, Kexin and Liang, Yifei and Shan, S
 year={2025},
 month=dec }
 
-
 @article{wang2025amdet,
   title={Assimilation Matters: Model-level Backdoor Detection in Vision-Language Pretrained Models}, 
   author={Zhongqi Wang and Jie Zhang and Shiguang Shan and Xilin Chen},
