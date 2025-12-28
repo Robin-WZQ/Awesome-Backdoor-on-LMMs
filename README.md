@@ -101,7 +101,7 @@ month=dec }
 | 2024.09     | Adversarial Backdoor Defense in CLIP      |  arXiv     | [link](https://arxiv.org/abs/2409.15968) | - |
 | 2024.09     | CleanerCLIP: Fine-grained Counterfactual Semantic Augmentation for Backdoor| arXiv | [link](https://arxiv.org/abs/2409.17601) | - |
 |2024.11     |Semantic Shield: Defending Vision-Language Models Against Backdooring and Poisoning via Fine-grained Knowledge Alignment| CVPR'24| [link](https://openaccess.thecvf.com/content/CVPR2024/html/Ishmam_Semantic_Shield_Defending_Vision-Language_Models_Against_Backdooring_and_Poisoning_via_CVPR_2024_paper.html) | [code](https://github.com/IshmamAlvi/Semantic-Shield) |
-|2024.11     | DeDe: Detecting Backdoor Samples for SSL Encoders via Decoders| CVPR'25| [link](https://openaccess.thecvf.com/content/CVPR2025/html/Hou_DeDe_Detecting_Backdoor_Samples_for_SSL_Encoders_via_Decoders_CVPR_2025_paper.html) |-|
+|2024.11     | DeDe: Detecting Backdoor Samples for SSL Encoders via Decoders| CVPR'25| [link](https://openaccess.thecvf.com/content/CVPR2025/html/Hou_DeDe_Detecting_Backdoor_Samples_for_SSL_Encoders_via_Decoders_CVPR_2025_paper.html) | [link](https://github.com/tardisblue9/DeDe)|
 |2024.12     |Defending Multimodal Backdoored Models by Repulsive Visual Prompt Tuning| arXiv| [link](https://arxiv.org/abs/2412.20392)| - |
 |2024.12     | DETECTING BACKDOOR SAMPLES IN CONTRASTIVE LANGUAGE IMAGE PRETRAINING| ICLR'25|[link](https://iclr.cc/virtual/2025/poster/30032) | [code](https://github.com/HanxunH/Detect-CLIP-Backdoor-Samples) |
 |2024.12     |Perturb and Recover: Fine-tuning for Effective Backdoor Removal from CLIP|arXiv| [link](https://arxiv.org/abs/2412.00727) | [code](https://github.com/nmndeep/PerturbAndRecover) |
