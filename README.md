@@ -152,7 +152,8 @@ month=dec }
 | 2025.03 | Efficient Input-level Backdoor Detection on Text-to-Image Synthesis via Neuron Activation Variation | arXiv    | [link](https://arxiv.org/abs/2503.06453)                                                                                    | -                                                            |
 | 2025.04 | Backdoor Defense in Diffusion Models via Spatial Attention Unlearning                            | arXiv      | [link](https://arxiv.org/abs/2504.18563)                                                                                    | -                                                            |
 | 2025.04 | Dynamic Attention Analysis for Backdoor Detection in Text-to-Image Diffusion Models              | TPAMI'25      | [link](https://arxiv.org/abs/2504.20518)                                                                                    | [code](https://github.com/Robin-WZQ/DAA)                     |
-| 2026.01 | On the Fairness, Diversity and Reliability of Text-to-Image Generative Models |  Artificial Intelligence Review | [link](https://link.springer.com/article/10.1007/s10462-025-11424-2) | [code](https://github.com/JJ-Vice/T2I_Fairness_Diversity_Reliability)
+| 2026.01 | On the Fairness, Diversity and Reliability of Text-to-Image Generative Models |  Artificial Intelligence Review | [link](https://link.springer.com/article/10.1007/s10462-025-11424-2) | [code](https://github.com/JJ-Vice/T2I_Fairness_Diversity_Reliability) |
+| 2026.01 | Key-Value Mapping-Based Text-to-Image Diffusion Model Backdoor Attacks | Algorithms | [link](https://www.mdpi.com/1999-4893/19/1/74) | - |
 
 
 
