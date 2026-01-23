@@ -107,6 +107,7 @@ month=dec }
 |2024.12     |Perturb and Recover: Fine-tuning for Effective Backdoor Removal from CLIP|arXiv| [link](https://arxiv.org/abs/2412.00727) | [code](https://github.com/nmndeep/PerturbAndRecover) |
 | 2025.02    |Neural Antidote: Class-Wise Prompt Tuning for Purifying Backdoors in CLIP|arXiv| [link](https://arxiv.org/abs/2502.19269) |-|
 | 2025.12    |Assimilation Matters: Model-level Backdoor Detection in Vision-Language Pretrained Models|arXiv| [link](https://www.arxiv.org/abs/2512.00343) |[code](https://github.com/Robin-WZQ/AMDET)|
+| 2026.01    |Backdoor Attacks on Multi-modal Contrastive Learning |arXiv| [link](https://www.arxiv.org/abs/2601.11006) | - |
 
 
 ### Text Conditioned Diffusion Models
