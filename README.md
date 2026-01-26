@@ -88,6 +88,7 @@ month=dec }
 |  2025.03   | MP-Nav: Enhancing Data Poisoning Attacks against Multimodal Learning      |  ICML'25     | [link](https://openreview.net/forum?id=zy7VeNtSLM) | - |
 | 2025.03     |   Backdooring CLIP through Concept Confusion    |    arXiv   |[link](https://arxiv.org/abs/2503.09095)  | - |
 | 2026.01    |Backdoor Attacks on Multi-modal Contrastive Learning |arXiv| [link](https://www.arxiv.org/abs/2601.11006) | - |
+| 2026.01    |  | IOTJ | [link](https://ieeexplore.ieee.org/abstract/document/11328089) | [code](https://github.com/Maozhen-Zhang/sbc) |
 
 #### Backdoor Defense
 
