@@ -187,9 +187,10 @@ month=dec }
 
 | Time    | Title                                                        |   Venue    |                       Paper                        |                    Code                    |
 | ------- | ------------------------------------------------------------ | :--------: | :------------------------------------------------: | :----------------------------------------: |
-| 2025.05 | Backdoor Cleaning without External Guidance in MLLM Fine-tuning | NeurIPS‘25 | [link](https://openreview.net/forum?id=os4QYDf3Ms) | [code](https://github.com/XuankunRong/BYE) |
+| 2025.05 | Backdoor Cleaning without External Guidance in MLLM Fine-tuning | NeurIPS'25 | [link](https://openreview.net/forum?id=os4QYDf3Ms) | [code](https://github.com/XuankunRong/BYE) |
 | 2025.06 | ROBUST ANTI-BACKDOOR INSTRUCTION TUNING IN LVLMS         |   arXiv    |      [link](https://arxiv.org/abs/2506.05401)      |                     -                      |
 | 2025.06 | SRD: Reinforcement-Learned Semantic Perturbation         |  AAAI'26   |    [link](https://www.arxiv.org/abs/2506.04743)    |   [code](https://github.com/Ciconey/SRD)   |
+| 2026.01 | From Internal Diagnosis to External Auditing: A VLM-Driven Paradigm for Online Test-Time Backdoor Defense   | arXiv | [link](https://arxiv.org/pdf/2601.19448) | - |
 
 ### VLM-based Embodied AI
 
