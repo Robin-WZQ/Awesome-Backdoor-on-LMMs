@@ -158,6 +158,7 @@ month=dec }
 | 2025.04 | Backdoor Defense in Diffusion Models via Spatial Attention Unlearning                            | arXiv      | [link](https://arxiv.org/abs/2504.18563)                                                                                    | -                                                            |
 | 2025.04 | Dynamic Attention Analysis for Backdoor Detection in Text-to-Image Diffusion Models              | TPAMI'25      | [link](https://arxiv.org/abs/2504.20518)                                                                                    | [code](https://github.com/Robin-WZQ/DAA)                     |
 | 2026.01 | On the Fairness, Diversity and Reliability of Text-to-Image Generative Models |  Artificial Intelligence Review | [link](https://link.springer.com/article/10.1007/s10462-025-11424-2) | [code](https://github.com/JJ-Vice/T2I_Fairness_Diversity_Reliability) |
+| 2025.02 | Backdoor Sentinel: Detecting and Detoxifying Backdoors in Diffusion Models via Temporal Noise Consistency | arXiv | [link](https://arxiv.org/pdf/2602.01765) | - |
 
 ### Large Vision Language Models
 
