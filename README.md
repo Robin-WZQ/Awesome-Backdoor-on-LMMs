@@ -1,7 +1,7 @@
 <h1 align="center">🤗 Awesome-Backdoor-on-LMMs 🤗</h1>
 
 <div align=center>
-<img src='https://github.com/Robin-WZQ/Awesome-Backdoor-on-LMMs/blob/main/Survey_2026.png' width=400>
+<img src='https://github.com/Robin-WZQ/Awesome-Backdoor-on-LMMs/blob/main/Survey_2026.png' width=500>
 </div>
 
 <p align="center"><em>Curated list of backdoor attacks and defenses on Large Multimodal Models (LMMs), aligned with our work:</em><br><strong>Backdoor Attacks and Defenses on Large
