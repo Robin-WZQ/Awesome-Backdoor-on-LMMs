@@ -211,7 +211,10 @@ month=dec }
 | 2025.07 | VisualTrap: A Stealthy Backdoor Attack on GUI Agents via Visual Grounding Manipulation | COLM‘25  | [link](https://openreview.net/forum?id=7HPuAkgdVm#discussion) |    [code](https://github.com/whi497/VisualTrap)     |
 | 2025.09 | Realistic Environmental Injection Attacks on GUI Agents  |  arXiv   |           [link](https://arxiv.org/abs/2509.11250)           | [code](https://github.com/zhangyitonggg/attack2gui) |
 
-
+#### Backdoor Defense
+| Time    | Title                                                        |  Venue   |                            Paper                             |                        Code                         |
+| ------- | ------------------------------------------------------------ | :------: | :----------------------------------------------------------: | :-------------------------------------------------: |
+| 2026.02 | When Attention Betrays: Erasing Backdoor Attacks in Robotic Policies by Reconstructing Visual Tokens | ICRA'26 | [link](https://arxiv.org/abs/2602.03153) | - |
 
 ## Other Related Awesome Repository
 
