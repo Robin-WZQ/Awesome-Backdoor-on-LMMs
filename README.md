@@ -146,6 +146,7 @@ month=dec }
 | 2025.08 | BadBlocks: Low-Cost and Stealthy Backdoor Attacks Tailored for Text-to-Image Diffusion Models | arXiv      | [link](https://arxiv.org/abs/2508.03221)                 | -                                                            |
 | 2026.01 | Key-Value Mapping-Based Text-to-Image Diffusion Model Backdoor Attacks | Algorithms | [link](https://www.mdpi.com/1999-4893/19/1/74) | [code](https://github.com/wenkfjsf/key_to_value) |
 | 2026.02 | Bad-PoseDiff: Pose-Guided Backdoor Triggering in Diffusion Models | TrustCom'25 | [link](https://ieeexplore.ieee.org/abstract/document/11354876) | - |
+| 2026.02 | Semantic-level Backdoor Attack against Text-to-Image Diffusion Models | arXiv'26 | [link](https://arxiv.org/pdf/2602.04898) | - |
 
 
 #### Backdoor Defense
