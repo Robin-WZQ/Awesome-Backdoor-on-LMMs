@@ -91,6 +91,7 @@ month=dec }
 |  2024.08   |   BAPLe: Backdoor Attacks on Medical  Foundational Models using Prompt Learning    |   MICCAI'24    | [link](https://papers.miccai.org/miccai-2024/094-Paper3117.html) | [code](https://github.com/asif-hanif/baple) |
 |  2025.03   | MP-Nav: Enhancing Data Poisoning Attacks against Multimodal Learning      |  ICML'25     | [link](https://openreview.net/forum?id=zy7VeNtSLM) | - |
 | 2025.03     |   Backdooring CLIP through Concept Confusion    |    arXiv   |[link](https://arxiv.org/abs/2503.09095)  | - |
+| 2025.11 | Backdoor in Seconds: Unlocking Vulnerabilities in Large Pre-trained Models via Model Editing | CIKM'25 | [link](https://dl.acm.org/doi/10.1145/3746252.3761408) | [code](https://github.com/donglgcn/Editing/) |
 | 2026.01    |Backdoor Attacks on Multi-modal Contrastive Learning |arXiv| [link](https://www.arxiv.org/abs/2601.11006) | - |
 | 2026.01    | Stealthy Backdoor Carriers: The Threat of Visual Prompts to CLIP | IOTJ | [link](https://ieeexplore.ieee.org/abstract/document/11328089) | [code](https://github.com/Maozhen-Zhang/sbc) |
 
