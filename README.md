@@ -94,6 +94,8 @@ month=dec }
 | 2025.11 | Backdoor in Seconds: Unlocking Vulnerabilities in Large Pre-trained Models via Model Editing | CIKM'25 | [link](https://dl.acm.org/doi/10.1145/3746252.3761408) | [code](https://github.com/donglgcn/Editing/) |
 | 2026.01    |Backdoor Attacks on Multi-modal Contrastive Learning |arXiv| [link](https://www.arxiv.org/abs/2601.11006) | - |
 | 2026.01    | Stealthy Backdoor Carriers: The Threat of Visual Prompts to CLIP | IOTJ | [link](https://ieeexplore.ieee.org/abstract/document/11328089) | [code](https://github.com/Maozhen-Zhang/sbc) |
+| 2026.02    | BadCLIP++: Stealthy and Persistent Backdoors in Multimodal Contrastive Learning | arXiv | [link](https://arxiv.org/pdf/2602.17168) | - |
+
 
 #### Backdoor Defense
 
