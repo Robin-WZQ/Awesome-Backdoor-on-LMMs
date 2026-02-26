@@ -92,6 +92,7 @@ month=dec }
 |  2025.03   | MP-Nav: Enhancing Data Poisoning Attacks against Multimodal Learning      |  ICML'25     | [link](https://openreview.net/forum?id=zy7VeNtSLM) | - |
 | 2025.03     |   Backdooring CLIP through Concept Confusion    |    arXiv   |[link](https://arxiv.org/abs/2503.09095)  | - |
 | 2025.11 | Backdoor in Seconds: Unlocking Vulnerabilities in Large Pre-trained Models via Model Editing | CIKM'25 | [link](https://dl.acm.org/doi/10.1145/3746252.3761408) | [code](https://github.com/donglgcn/Editing/) |
+| 2025.11 | ToxicTextCLIP: Text-Based Poisoning and Backdoor Attacks on CLIP Pre-training | NeurIPS'25 | [link](https://arxiv.org/pdf/2511.00446) | [code](https://github.com/xinyaocse/ToxicTextCLIP/) | 
 | 2026.01    |Backdoor Attacks on Multi-modal Contrastive Learning |arXiv| [link](https://www.arxiv.org/abs/2601.11006) | - |
 | 2026.01    | Stealthy Backdoor Carriers: The Threat of Visual Prompts to CLIP | IOTJ | [link](https://ieeexplore.ieee.org/abstract/document/11328089) | [code](https://github.com/Maozhen-Zhang/sbc) |
 | 2026.02    | BadCLIP++: Stealthy and Persistent Backdoors in Multimodal Contrastive Learning | arXiv | [link](https://arxiv.org/pdf/2602.17168) | - |
