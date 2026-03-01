@@ -152,7 +152,7 @@ month=dec }
 | 2026.02 | Bad-PoseDiff: Pose-Guided Backdoor Triggering in Diffusion Models | TrustCom'25 | [link](https://ieeexplore.ieee.org/abstract/document/11354876) | - |
 | 2026.02 | Semantic-level Backdoor Attack against Text-to-Image Diffusion Models | arXiv'26 | [link](https://arxiv.org/pdf/2602.04898) | - |
 | 2026.02 | When Backdoors Go Beyond Triggers: Semantic Drift in Diffusion Models Under Encoder Attacks | arXiv'26 | [link](https://arxiv.org/pdf/2602.20193) | - |
-| 2026.02 | When LoRA Betrays: Backdooring Text-to-Image Models by Masquerading as Benign Adapters | arXiv'26 | [link](https://arxiv.org/pdf/2602.21977) | [code](https://github.com/spectre-init/MasqLora) |
+| 2026.02 | When LoRA Betrays: Backdooring Text-to-Image Models by Masquerading as Benign Adapters | CVPR'26 | [link](https://arxiv.org/pdf/2602.21977) | [code](https://github.com/spectre-init/MasqLora) |
 
 
 #### Backdoor Defense
