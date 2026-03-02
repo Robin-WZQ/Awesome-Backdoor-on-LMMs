@@ -91,6 +91,7 @@ month=dec }
 |  2024.08   |   BAPLe: Backdoor Attacks on Medical  Foundational Models using Prompt Learning    |   MICCAI'24    | [link](https://papers.miccai.org/miccai-2024/094-Paper3117.html) | [code](https://github.com/asif-hanif/baple) |
 |  2025.03   | MP-Nav: Enhancing Data Poisoning Attacks against Multimodal Learning      |  ICML'25     | [link](https://openreview.net/forum?id=zy7VeNtSLM) | - |
 | 2025.03     |   Backdooring CLIP through Concept Confusion    |    arXiv   |[link](https://arxiv.org/abs/2503.09095)  | - |
+| 2025.10 | Invisible Backdoor Attack against Self-supervised Learning | CVPR'25 | [link](https://openaccess.thecvf.com/content/CVPR2025/papers/Zhang_Invisible_Backdoor_Attack_against_Self-supervised_Learning_CVPR_2025_paper.pdf) | [code](https://github.com/Zhang-Henry/INACTIVE) |
 | 2025.11 | Backdoor in Seconds: Unlocking Vulnerabilities in Large Pre-trained Models via Model Editing | CIKM'25 | [link](https://dl.acm.org/doi/10.1145/3746252.3761408) | [code](https://github.com/donglgcn/Editing/) |
 | 2025.11 | ToxicTextCLIP: Text-Based Poisoning and Backdoor Attacks on CLIP Pre-training | NeurIPS'25 | [link](https://arxiv.org/pdf/2511.00446) | [code](https://github.com/xinyaocse/ToxicTextCLIP/) | 
 | 2026.01    |Backdoor Attacks on Multi-modal Contrastive Learning |arXiv| [link](https://www.arxiv.org/abs/2601.11006) | - |
