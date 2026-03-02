@@ -118,6 +118,7 @@ month=dec }
 | 2025.02    |Neural Antidote: Class-Wise Prompt Tuning for Purifying Backdoors in CLIP|arXiv| [link](https://arxiv.org/abs/2502.19269) |-|
 | 2025.12    |Assimilation Matters: Model-level Backdoor Detection in Vision-Language Pretrained Models|arXiv| [link](https://www.arxiv.org/abs/2512.00343) |[code](https://github.com/Robin-WZQ/AMDET)|
 | 2026.01    |Robust defense strategies for multimodal contrastive learning: efficient fine-tuning against backdoor attacks | Multimedia Tools and Applications | [link](https://link.springer.com/article/10.1007/s11042-026-21339-x) | - |
+| 2026.02    |InverTune: A Backdoor Defense Method for Multimodal Contrastive Learning via Backdoor-Adversarial Correlation Analysis | NDSS'26 | [link](https://www.ndss-symposium.org/wp-content/uploads/2026-f1666-paper.pdf) | - |
 
 
 ### Text Conditioned Diffusion Models
