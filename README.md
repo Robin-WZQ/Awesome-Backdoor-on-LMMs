@@ -230,6 +230,11 @@ month=dec }
 | ------- | ------------------------------------------------------------ | :------: | :----------------------------------------------------------: | :-------------------------------------------------: |
 | 2026.02 | When Attention Betrays: Erasing Backdoor Attacks in Robotic Policies by Reconstructing Visual Tokens | ICRA'26 | [link](https://arxiv.org/abs/2602.03153) | - |
 
+### Others
+| Time    | Title                                                        |  Venue   |                            Paper                             |                        Code                         |
+| ------- | ------------------------------------------------------------ | :------: | :----------------------------------------------------------: | :-------------------------------------------------: |
+| 2026.03 | Self-Purification Mitigates Backdoors in Multimodal Diffusion Language Models | arXiv | [link](https://arxiv.org/pdf/2602.22246) | [code](https://github.com/bigglesworthnotacat/Diffusion_Self_Purification) |
+
 ## Other Related Awesome Repository
 
 - [Awesome Data Poisoning and Backdoor Attacks](https://github.com/penghui-yang/awesome-data-poisoning-and-backdoor-attacks)
