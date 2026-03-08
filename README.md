@@ -155,6 +155,8 @@ month=dec }
 | 2026.02 | Semantic-level Backdoor Attack against Text-to-Image Diffusion Models | arXiv'26 | [link](https://arxiv.org/pdf/2602.04898) | - |
 | 2026.02 | When Backdoors Go Beyond Triggers: Semantic Drift in Diffusion Models Under Encoder Attacks | arXiv'26 | [link](https://arxiv.org/pdf/2602.20193) | - |
 | 2026.02 | When LoRA Betrays: Backdooring Text-to-Image Models by Masquerading as Benign Adapters | CVPR'26 | [link](https://arxiv.org/pdf/2602.21977) | [code](https://github.com/spectre-init/MasqLora) |
+| 2026.03 | Tuning Just Enough: Lightweight Backdoor Attacks on Multi-Encoder Diffusion Models | ICLRW'26 | [link](https://arxiv.org/pdf/2603.04064) | - |
+
 
 
 #### Backdoor Defense
