@@ -97,7 +97,7 @@ month=dec }
 | 2026.01    |Backdoor Attacks on Multi-modal Contrastive Learning |arXiv| [link](https://www.arxiv.org/abs/2601.11006) | - |
 | 2026.01    | Stealthy Backdoor Carriers: The Threat of Visual Prompts to CLIP | IOTJ | [link](https://ieeexplore.ieee.org/abstract/document/11328089) | [code](https://github.com/Maozhen-Zhang/sbc) |
 | 2026.02    | BadCLIP++: Stealthy and Persistent Backdoors in Multimodal Contrastive Learning | arXiv | [link](https://arxiv.org/pdf/2602.17168) | - |
-| 2026.03 | Dormant Backdoor: Weaponizing Model Finetuning for Feasible Backdoor Attacks against Pretrained Models | AAAI'26 | [link](file:///F:/ICT/Models/llama-7b/39480-Article%20Text-43571-1-2-20260314.pdf) | [code](https://github.com/Blury233/FinetuningBackdoor/) |
+| 2026.03 | Dormant Backdoor: Weaponizing Model Finetuning for Feasible Backdoor Attacks against Pretrained Models | AAAI'26 | [link](https://ojs.aaai.org/index.php/AAAI/article/view/39480) | [code](https://github.com/Blury233/FinetuningBackdoor/) |
 
 
 #### Backdoor Defense
@@ -121,6 +121,7 @@ month=dec }
 | 2025.12    |Assimilation Matters: Model-level Backdoor Detection in Vision-Language Pretrained Models|arXiv| [link](https://www.arxiv.org/abs/2512.00343) |[code](https://github.com/Robin-WZQ/AMDET)|
 | 2026.01    |Robust defense strategies for multimodal contrastive learning: efficient fine-tuning against backdoor attacks | Multimedia Tools and Applications | [link](https://link.springer.com/article/10.1007/s11042-026-21339-x) | - |
 | 2026.02    |InverTune: A Backdoor Defense Method for Multimodal Contrastive Learning via Backdoor-Adversarial Correlation Analysis | NDSS'26 | [link](https://www.ndss-symposium.org/wp-content/uploads/2026-f1666-paper.pdf) | - |
+| 2026.03 | DIFT: Protecting Contrastive Learning Against Data Poisoning Backdoor Attacks | AAAI'26 | [link](https://ojs.aaai.org/index.php/AAAI/article/view/37141) | - |
 
 
 ### Text Conditioned Diffusion Models
@@ -211,7 +212,10 @@ month=dec }
 | 2025.06 | SRD: Reinforcement-Learned Semantic Perturbation         |  AAAI'26   |    [link](https://www.arxiv.org/abs/2506.04743)    |   [code](https://github.com/Ciconey/SRD)   |
 | 2026.01 | From Internal Diagnosis to External Auditing: A VLM-Driven Paradigm for Online Test-Time Backdoor Defense   | arXiv | [link](https://arxiv.org/pdf/2601.19448) | - |
 | 2026.01 | TCAP: Tri-Component Attention Profiling for Unsupervised Backdoor Detection in MLLM Fine-Tuning | arXiv | [link](https://arxiv.org/pdf/2601.21692) | [code](https://github.com/m1ng2u/TCAP) |
-
+| 2026.03 | Probing Semantic Insensitivity for Inference-Time Backdoor Defense in Multimodal Large Language Model | AAAI'26 | [link](https://ojs.aaai.org/index.php/AAAI/article/view/40891) |- |
+| 2026.03 | PurMM: Attention-Guided Test-Time Backdoor Purification in Multimodal Large Language Models | AAAI'26 | [link](https://ojs.aaai.org/index.php/AAAI/article/view/40867) | - |
+| 2026.03 | Test-Time Attention Purification for Backdoored Large Vision Language Models | arXiv | [link](https://arxiv.org/pdf/2603.12989) | - |
+| 2026.03 | Self-Purification Mitigates Backdoors in Multimodal Diffusion Language Models | arXiv | [link](https://arxiv.org/pdf/2602.22246) | [code](https://arxiv.org/pdf/2602.22246) |
 
 ### VLM-based Embodied AI
 
