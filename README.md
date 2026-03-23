@@ -221,6 +221,8 @@ month=dec }
 
 #### Backdoor Attack
 
+- VLA
+
 | Time    | Title                                                        |  Venue   |                            Paper                             |                        Code                         |
 | ------- | ------------------------------------------------------------ | :------: | :----------------------------------------------------------: | :-------------------------------------------------: |
 | 2025.05 | BadVLA: Towards Backdoor Attacks on Vision-Language-Action Models via Objective-Decoupled Optimization |  arXiv   |           [link](https://arxiv.org/abs/2505.16640)           |     [code](https://github.com/Zxy-MLlab/BadVLA)     |
@@ -232,6 +234,8 @@ month=dec }
 | 2025.06 | Poison Once, Control Anywhere: Clean-Text Visual Backdoors in VLM-based Mobile Agents |  arXiv   |           [link](https://arxiv.org/abs/2506.13205)           |                          -                          |
 | 2025.07 | VisualTrap: A Stealthy Backdoor Attack on GUI Agents via Visual Grounding Manipulation | COLM‘25  | [link](https://openreview.net/forum?id=7HPuAkgdVm#discussion) |    [code](https://github.com/whi497/VisualTrap)     |
 | 2025.09 | Realistic Environmental Injection Attacks on GUI Agents  |  arXiv   |           [link](https://arxiv.org/abs/2509.11250)           | [code](https://github.com/zhangyitonggg/attack2gui) |
+| 2026.03 | SlowBA: An efficiency backdoor attack towards VLM-based GUI agents | arXiv | [link](https://arxiv.org/pdf/2603.08316) | [code](https://github.com/tu-tuing/SlowBA) | 
+
 
 #### Backdoor Defense
 | Time    | Title                                                        |  Venue   |                            Paper                             |                        Code                         |
