@@ -122,6 +122,7 @@ month=dec }
 | 2026.01    |Robust defense strategies for multimodal contrastive learning: efficient fine-tuning against backdoor attacks | Multimedia Tools and Applications | [link](https://link.springer.com/article/10.1007/s11042-026-21339-x) | - |
 | 2026.02    |InverTune: A Backdoor Defense Method for Multimodal Contrastive Learning via Backdoor-Adversarial Correlation Analysis | NDSS'26 | [link](https://www.ndss-symposium.org/wp-content/uploads/2026-f1666-paper.pdf) | - |
 | 2026.03 | DIFT: Protecting Contrastive Learning Against Data Poisoning Backdoor Attacks | AAAI'26 | [link](https://ojs.aaai.org/index.php/AAAI/article/view/37141) | - |
+| 2026.03 | BackdoorIDS: Zero-shot Backdoor Detection for Pretrained Vision Encoder | ArXiv | [link](https://arxiv.org/pdf/2603.11664) | [code](https://github.com/siquanhuang/BackdoorIDS) |
 
 
 ### Text Conditioned Diffusion Models
