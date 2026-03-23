@@ -230,8 +230,13 @@ month=dec }
 | 2025.11 | AttackVLA: Benchmarking Adversarial and Backdoor Attacks on Vision-Language-Action Models |  arXiv   |           [link](https://arxiv.org/abs/2511.12149)           |                          -                          |
 | 2026.01 | State Backdoor: Towards Stealthy Real-world Poisoning Attack on Vision-Language-Action Model in State Space | arXiv | [link](https://www.arxiv.org/abs/2601.04266) |                      -                      |
 | 2026.02 | Inject Once Survive Later: Backdooring Vision-Language-Action Models to Persist Through Downstream Fine-tuning | arXiv |[link](https://arxiv.org/pdf/2602.00500) | [code](https://jianyi2004.github.io/infuse-vla-backdoor/) |
+
+- GUI
+  
+| Time    | Title                                                        |  Venue   |                            Paper                             |                        Code                         |
+| ------- | ------------------------------------------------------------ | :------: | :----------------------------------------------------------: | :-------------------------------------------------: |
 | 2025.05 | Hidden Ghost Hand: Unveiling Backdoor Vulnerabilities in MLLM-Powered Mobile GUI Agents | EMNLP’25 |  [link](https://aclanthology.org/2025.findings-emnlp.411/)   |  [code](https://github.com/CTZhou-byte/AgentGhost)  |
-| 2025.06 | Poison Once, Control Anywhere: Clean-Text Visual Backdoors in VLM-based Mobile Agents |  arXiv   |           [link](https://arxiv.org/abs/2506.13205)           |                          -                          |
+| 2025.06 | Poison Once, Control Anywhere: Clean-Text Visual Backdoors in VLM-based Mobile Agents |  arXiv   |           [link](https://arxiv.org/abs/2506.13205)           |  - |
 | 2025.07 | VisualTrap: A Stealthy Backdoor Attack on GUI Agents via Visual Grounding Manipulation | COLM‘25  | [link](https://openreview.net/forum?id=7HPuAkgdVm#discussion) |    [code](https://github.com/whi497/VisualTrap)     |
 | 2025.09 | Realistic Environmental Injection Attacks on GUI Agents  |  arXiv   |           [link](https://arxiv.org/abs/2509.11250)           | [code](https://github.com/zhangyitonggg/attack2gui) |
 | 2026.03 | SlowBA: An efficiency backdoor attack towards VLM-based GUI agents | arXiv | [link](https://arxiv.org/pdf/2603.08316) | [code](https://github.com/tu-tuing/SlowBA) | 
