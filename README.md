@@ -97,6 +97,7 @@ month=dec }
 | 2026.01    |Backdoor Attacks on Multi-modal Contrastive Learning |arXiv| [link](https://www.arxiv.org/abs/2601.11006) | - |
 | 2026.01    | Stealthy Backdoor Carriers: The Threat of Visual Prompts to CLIP | IOTJ | [link](https://ieeexplore.ieee.org/abstract/document/11328089) | [code](https://github.com/Maozhen-Zhang/sbc) |
 | 2026.02    | BadCLIP++: Stealthy and Persistent Backdoors in Multimodal Contrastive Learning | arXiv | [link](https://arxiv.org/pdf/2602.17168) | - |
+| 2026.03 | Dormant Backdoor: Weaponizing Model Finetuning for Feasible Backdoor Attacks against Pretrained Models | AAAI'26 | [link](file:///F:/ICT/Models/llama-7b/39480-Article%20Text-43571-1-2-20260314.pdf) | [code](https://github.com/Blury233/FinetuningBackdoor/) |
 
 
 #### Backdoor Defense
