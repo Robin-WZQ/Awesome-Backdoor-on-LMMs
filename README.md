@@ -117,6 +117,7 @@ month=dec }
 |2024.12     |Defending Multimodal Backdoored Models by Repulsive Visual Prompt Tuning| arXiv| [link](https://arxiv.org/abs/2412.20392)| - |
 |2024.12     | DETECTING BACKDOOR SAMPLES IN CONTRASTIVE LANGUAGE IMAGE PRETRAINING| ICLR'25|[link](https://iclr.cc/virtual/2025/poster/30032) | [code](https://github.com/HanxunH/Detect-CLIP-Backdoor-Samples) |
 |2024.12     |Perturb and Recover: Fine-tuning for Effective Backdoor Removal from CLIP|arXiv| [link](https://arxiv.org/abs/2412.00727) | [code](https://github.com/nmndeep/PerturbAndRecover) |
+| 2025.02    | A Closer Look at Backdoor Attacks on CLIP | ICML'25 | [link](https://personal.ntu.edu.sg/boan/papers/ICML25_CLIP.pdf) | - |
 | 2025.02    |Neural Antidote: Class-Wise Prompt Tuning for Purifying Backdoors in CLIP|arXiv| [link](https://arxiv.org/abs/2502.19269) |-|
 | 2025.12    |Assimilation Matters: Model-level Backdoor Detection in Vision-Language Pretrained Models|arXiv| [link](https://www.arxiv.org/abs/2512.00343) |[code](https://github.com/Robin-WZQ/AMDET)|
 | 2026.01    |Robust defense strategies for multimodal contrastive learning: efficient fine-tuning against backdoor attacks | Multimedia Tools and Applications | [link](https://link.springer.com/article/10.1007/s11042-026-21339-x) | - |
