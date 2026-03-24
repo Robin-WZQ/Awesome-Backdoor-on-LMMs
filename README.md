@@ -18,55 +18,6 @@ Multimodal Models: A Survey</strong></p>
 
  Any additional things regarding backdoor, PRs, issues are welcome. Any problems, please contact wangzhongqi23s@ict.ac.cn. If you find this repository useful to your research or work, it is really appreciated to star this repository and cite our papers [here](#Reference). :sparkles:
 
-## 🥳 Reference
-
-If you find this repository helpful for your research, we would greatly appreciate it if you could cite our papers. :sparkles:
-
-```
-@article{Wang_2025,
-title={Backdoor Attacks and Defenses on Large Multimodal Models: A Survey},
-DOI={10.36227/techrxiv.176618816.64264497/v1},
-publisher={Institute of Electrical and Electronics Engineers (IEEE)},
-author={Wang, Zhongqi and Zhang, Jie and Bao, Kexin and Liang, Yifei and Shan, Shiguang and Chen, Xilin},
-year={2025},
-month=dec }
-
-@article{wang2025amdet,
-  title={Assimilation Matters: Model-level Backdoor Detection in Vision-Language Pretrained Models}, 
-  author={Zhongqi Wang and Jie Zhang and Shiguang Shan and Xilin Chen},
-  journal={arXiv preprint arXiv:2512.00343},
-  year={2025},
-}
-
-@article{wang2025dynamicattentionanalysisbackdoor,
-  title={Dynamic Attention Analysis for Backdoor Detection in Text-to-Image Diffusion Models}, 
-  author={Zhongqi Wang and Jie Zhang and Shiguang Shan and Xilin Chen},
-  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)},
-  year={2025},
-}
-
-@article{zhang2025twt,
-  title={Trigger without Trace: Towards Stealthy Backdoor Attack on Text-to-Image Diffusion Models}, 
-  author={Jie Zhang and Zhongqi Wang and Shiguang Shan and Xilin Chen},
-  journal={arXiv preprint arXiv:2503.17724},
-  year={2025},
-}
-
-@InProceedings{10.1007/978-3-031-73013-9_7,
-  author="Wang, Zhongqi
-  and Zhang, Jie
-  and Shan, Shiguang
-  and Chen, Xilin",
-  title="T2IShield: Defending Against Backdoors on Text-to-Image Diffusion Models",
-  booktitle="Computer Vision -- ECCV 2024",
-  year="2025",
-  publisher="Springer Nature Switzerland",
-  address="Cham",
-  pages="107--124",
-  isbn="978-3-031-73013-9"
-}
-```
-
 ## 📜 Table of Contents
 
 - [Vision Language Pretrained Models (VLPs)](#Vision-Language-Pretrained-Models)
@@ -261,3 +212,53 @@ month=dec }
 - [Backdoor Learning Resources](https://github.com/THUYimingLi/backdoor-learning-resources)
 - [Awesome-LVLM-Attack](https://github.com/liudaizong/Awesome-LVLM-Attack/tree/main)
 - [Awesome-Large-Model-Safety](https://github.com/xingjunm/Awesome-Large-Model-Safety)
+
+
+## 🥳 Reference
+
+If you find this repository helpful for your research, we would greatly appreciate it if you could cite our papers. :sparkles:
+
+```
+@article{Wang_2025,
+title={Backdoor Attacks and Defenses on Large Multimodal Models: A Survey},
+DOI={10.36227/techrxiv.176618816.64264497/v1},
+publisher={Institute of Electrical and Electronics Engineers (IEEE)},
+author={Wang, Zhongqi and Zhang, Jie and Bao, Kexin and Liang, Yifei and Shan, Shiguang and Chen, Xilin},
+year={2025},
+month=dec }
+
+@article{wang2025amdet,
+  title={Assimilation Matters: Model-level Backdoor Detection in Vision-Language Pretrained Models}, 
+  author={Zhongqi Wang and Jie Zhang and Shiguang Shan and Xilin Chen},
+  journal={arXiv preprint arXiv:2512.00343},
+  year={2025},
+}
+
+@article{wang2025dynamicattentionanalysisbackdoor,
+  title={Dynamic Attention Analysis for Backdoor Detection in Text-to-Image Diffusion Models}, 
+  author={Zhongqi Wang and Jie Zhang and Shiguang Shan and Xilin Chen},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)},
+  year={2025},
+}
+
+@article{zhang2025twt,
+  title={Trigger without Trace: Towards Stealthy Backdoor Attack on Text-to-Image Diffusion Models}, 
+  author={Jie Zhang and Zhongqi Wang and Shiguang Shan and Xilin Chen},
+  journal={arXiv preprint arXiv:2503.17724},
+  year={2025},
+}
+
+@InProceedings{10.1007/978-3-031-73013-9_7,
+  author="Wang, Zhongqi
+  and Zhang, Jie
+  and Shan, Shiguang
+  and Chen, Xilin",
+  title="T2IShield: Defending Against Backdoors on Text-to-Image Diffusion Models",
+  booktitle="Computer Vision -- ECCV 2024",
+  year="2025",
+  publisher="Springer Nature Switzerland",
+  address="Cham",
+  pages="107--124",
+  isbn="978-3-031-73013-9"
+}
+```
