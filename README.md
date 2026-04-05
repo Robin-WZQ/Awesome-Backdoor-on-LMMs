@@ -223,8 +223,6 @@ If you find this repository helpful for your research, we would greatly apprecia
 ```
 @article{Wang_2025,
 title={Backdoor Attacks and Defenses on Large Multimodal Models: A Survey},
-DOI={10.36227/techrxiv.176618816.64264497/v1},
-publisher={Institute of Electrical and Electronics Engineers (IEEE)},
 author={Wang, Zhongqi and Zhang, Jie and Bao, Kexin and Liang, Yifei and Shan, Shiguang and Chen, Xilin},
 year={2025},
 month=dec }
