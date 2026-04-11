@@ -172,6 +172,7 @@ Multimodal Models: A Survey</strong></p>
 | 2026.03 | PurMM: Attention-Guided Test-Time Backdoor Purification in Multimodal Large Language Models | AAAI'26 | [link](https://ojs.aaai.org/index.php/AAAI/article/view/40867) | - |
 | 2026.03 | Test-Time Attention Purification for Backdoored Large Vision Language Models | arXiv | [link](https://arxiv.org/pdf/2603.12989) | - |
 | 2026.03 | Self-Purification Mitigates Backdoors in Multimodal Diffusion Language Models | arXiv | [link](https://arxiv.org/pdf/2602.22246) | [code](https://arxiv.org/pdf/2602.22246) |
+| 2026.04 | A Patch-based Cross-view Regularized Framework for Backdoor Defense in Multimodal Large Language Models | arXiv | [link](https://arxiv.org/pdf/2604.04488) | - |
 
 ### VLM-based Embodied AI
 
