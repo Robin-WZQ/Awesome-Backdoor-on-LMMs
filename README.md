@@ -155,6 +155,7 @@ Multimodal Models: A Survey</strong></p>
 | 2025.11 | MTAttack: Multi-Target Backdoor Attacks against Large Vision-LanguageModels | arXiv | [link](https://arxiv.org/abs/2511.10098) | [code](https://github.com/mala-lab/MTAttack) |
 | 2025.11 | BackdoorVLM: A Benchmark for Backdoor Attacks on Vision-Language Models | arXiv | [link](https://arxiv.org/abs/2511.18921) | [code](https://github.com/bin015/BackdoorVLM)|
 | 2026.04 | HIDDEN ADS: Behavior-Triggered Semantic Backdoors for Advertisement Injection in Vision–Language Models | arXiv | [link](https://arxiv.org/pdf/2603.27522) | - |
+| 2026.04 | Multimodal Backdoor Attack on VLMs for Autonomous Driving via Graffiti and Cross-Lingual Triggers | arXiv | [link](https://arxiv.org/pdf/2604.04630) | - |
 
 
 
