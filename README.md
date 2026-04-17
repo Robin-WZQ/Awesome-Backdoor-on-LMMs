@@ -51,6 +51,7 @@ Multimodal Models: A Survey</strong></p>
 | 2026.03 | Dormant Backdoor: Weaponizing Model Finetuning for Feasible Backdoor Attacks against Pretrained Models | AAAI'26 | [link](https://ojs.aaai.org/index.php/AAAI/article/view/39480) | [code](https://github.com/Blury233/FinetuningBackdoor/) |
 
 
+
 #### Backdoor Defense
 
 | Time | Title | Venue |  Paper   |   Code   |
@@ -75,6 +76,8 @@ Multimodal Models: A Survey</strong></p>
 | 2026.02    |InverTune: A Backdoor Defense Method for Multimodal Contrastive Learning via Backdoor-Adversarial Correlation Analysis | NDSS'26 | [link](https://www.ndss-symposium.org/wp-content/uploads/2026-f1666-paper.pdf) | - |
 | 2026.03 | DIFT: Protecting Contrastive Learning Against Data Poisoning Backdoor Attacks | AAAI'26 | [link](https://ojs.aaai.org/index.php/AAAI/article/view/37141) | - |
 | 2026.03 | BackdoorIDS: Zero-shot Backdoor Detection for Pretrained Vision Encoder | arXiv | [link](https://arxiv.org/pdf/2603.11664) | [code](https://github.com/siquanhuang/BackdoorIDS) |
+| 2026.04 | CLIP-Inspector: Model-Level Backdoor Detection for Prompt-Tuned CLIP via OOD Trigger Inversion | arXiv | [link](https://arxiv.org/pdf/2604.09101) | - |
+
 
 
 ### Text Conditioned Diffusion Models
@@ -156,7 +159,7 @@ Multimodal Models: A Survey</strong></p>
 | 2025.11 | BackdoorVLM: A Benchmark for Backdoor Attacks on Vision-Language Models | arXiv | [link](https://arxiv.org/abs/2511.18921) | [code](https://github.com/bin015/BackdoorVLM)|
 | 2026.04 | HIDDEN ADS: Behavior-Triggered Semantic Backdoors for Advertisement Injection in Vision–Language Models | arXiv | [link](https://arxiv.org/pdf/2603.27522) | - |
 | 2026.04 | Multimodal Backdoor Attack on VLMs for Autonomous Driving via Graffiti and Cross-Lingual Triggers | arXiv | [link](https://arxiv.org/pdf/2604.04630) | - |
-
+| 2026.04 | Follow My Eyes: Backdoor Attacks on VLM-based Scanpath Prediction | arXiv | [link](https://arxiv.org/pdf/2604.08766) | - |
 
 
 #### Backdoor Defense
