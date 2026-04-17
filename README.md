@@ -133,6 +133,8 @@ Multimodal Models: A Survey</strong></p>
 | 2026.01 | On the Fairness, Diversity and Reliability of Text-to-Image Generative Models |  Artificial Intelligence Review | [link](https://link.springer.com/article/10.1007/s10462-025-11424-2) | [code](https://github.com/JJ-Vice/T2I_Fairness_Diversity_Reliability) |
 | 2026.02 | Backdoor Sentinel: Detecting and Detoxifying Backdoors in Diffusion Models via Temporal Noise Consistency | arXiv | [link](https://arxiv.org/pdf/2602.01765) | - |
 | 2026.03 | BlackMirror: Black-Box Backdoor Detection for Text-to-Image Models via Instruction-Response Deviation | CVPR'26 | [link](https://arxiv.org/html/2603.05921v1) | [code](https://github.com/Ferry-Li/BlackMirror) |
+| 2026.03 | A Dual-Purpose Framework for Backdoor Defense and Backdoor Amplification in Diffusion Models | TIFS'26 | [link](https://ieeexplore.ieee.org/document/11442803) | - |
+| 2026.04 | Scaling Exposes the Trigger: Input-Level Backdoor Detection in Text-to-Image Diffusion Models via Cross-Attention Scaling | arXiv | [link](https://arxiv.org/pdf/2604.12446) | - |
 
 ### Large Vision Language Models
 
