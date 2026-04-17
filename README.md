@@ -160,6 +160,7 @@ Multimodal Models: A Survey</strong></p>
 | 2026.04 | HIDDEN ADS: Behavior-Triggered Semantic Backdoors for Advertisement Injection in Vision–Language Models | arXiv | [link](https://arxiv.org/pdf/2603.27522) | - |
 | 2026.04 | Multimodal Backdoor Attack on VLMs for Autonomous Driving via Graffiti and Cross-Lingual Triggers | arXiv | [link](https://arxiv.org/pdf/2604.04630) | - |
 | 2026.04 | Follow My Eyes: Backdoor Attacks on VLM-based Scanpath Prediction | arXiv | [link](https://arxiv.org/pdf/2604.08766) | - |
+| 2026.04 | Phantasia: Context-Adaptive Backdoors in Vision Language Models | arXiv | [link](https://arxiv.org/pdf/2604.08395) | [code](https://github.com/nduongw/Phantasia) | 
 
 
 #### Backdoor Defense
