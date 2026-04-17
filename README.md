@@ -49,7 +49,7 @@ Multimodal Models: A Survey</strong></p>
 | 2026.01    | Stealthy Backdoor Carriers: The Threat of Visual Prompts to CLIP | IOTJ | [link](https://ieeexplore.ieee.org/abstract/document/11328089) | [code](https://github.com/Maozhen-Zhang/sbc) |
 | 2026.02    | BadCLIP++: Stealthy and Persistent Backdoors in Multimodal Contrastive Learning | arXiv | [link](https://arxiv.org/pdf/2602.17168) | - |
 | 2026.03 | Dormant Backdoor: Weaponizing Model Finetuning for Feasible Backdoor Attacks against Pretrained Models | AAAI'26 | [link](https://ojs.aaai.org/index.php/AAAI/article/view/39480) | [code](https://github.com/Blury233/FinetuningBackdoor/) |
-
+| 2026.04 | TEALTHY AND ADJUSTABLE TEXT-GUIDED BACKDOOR ATTACKS ON MULTIMODAL PRETRAINED MODELS |  arXiv | [link](https://arxiv.org/pdf/2604.05809) | [code](https://github.com/feng07zyy/TGB) | 
 
 
 #### Backdoor Defense
@@ -176,6 +176,7 @@ Multimodal Models: A Survey</strong></p>
 | 2026.03 | Test-Time Attention Purification for Backdoored Large Vision Language Models | arXiv | [link](https://arxiv.org/pdf/2603.12989) | - |
 | 2026.03 | Self-Purification Mitigates Backdoors in Multimodal Diffusion Language Models | arXiv | [link](https://arxiv.org/pdf/2602.22246) | [code](https://arxiv.org/pdf/2602.22246) |
 | 2026.04 | A Patch-based Cross-view Regularized Framework for Backdoor Defense in Multimodal Large Language Models | arXiv | [link](https://arxiv.org/pdf/2604.04488) | - |
+| 2026.04 | Meta-Research on Backdoors: Dataset and Threat Model Shifts in Multimodal Backdoor Attacks | arXiv | [link](https://www.preprints.org/frontend/manuscript/e479c748fb4a67ec823add139acb1909/download_pub) | - |
 
 ### VLM-based Embodied AI
 
