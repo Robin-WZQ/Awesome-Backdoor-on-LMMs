@@ -250,12 +250,16 @@ month=dec }
   year={2025},
 }
 
-@article{zhang2025twt,
+@ARTICLE{11527385,
+  author={Zhang, Jie and Wang, Zhongqi and Shan, Shiguang and Chen, Xilin},
+  journal={IEEE Transactions on Information Forensics and Security (TIFS)}, 
   title={Trigger without Trace: Towards Stealthy Backdoor Attack on Text-to-Image Diffusion Models}, 
-  author={Jie Zhang and Zhongqi Wang and Shiguang Shan and Xilin Chen},
-  journal={arXiv preprint arXiv:2503.17724},
-  year={2025},
-}
+  year={2026},
+  volume={},
+  number={},
+  pages={1-1},
+  keywords={Modeling;Diffusion models;Text to image;Syntactics;Training;Automatic speech recognition;Conferences;Computers;Toxicology;Computer vision;Backdoor Attack;Text-to-Image Diffusion Models;Syntactic Trigger},
+  doi={10.1109/TIFS.2026.3695430}}
 
 @InProceedings{10.1007/978-3-031-73013-9_7,
   author="Wang, Zhongqi
