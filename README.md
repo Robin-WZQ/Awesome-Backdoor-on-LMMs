@@ -117,7 +117,7 @@ Multimodal Models: A Survey</strong></p>
 | 2026.06 | Inference-Configuration Robust Backdoor Attacks on Diffusion Models via Cross-Timestep Consistent Trigger | IEEE Access | [link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11559595) | - |
 | 2026.06 | GoodDiffusion: Proactive Copyright Protection for Diffusion Bridge Models via Learnable Sample-specific Signatures | arXiv | [link](https://arxiv.org/pdf/2606.29759) | [code](https://github.com/qsx830/GoodDiffusion) |
 | 2026.06 | Retrievals Can Be Detrimental: Unveiling the Backdoor Vulnerability of Retrieval-Augmented Diffusion Models | ACL'26 | [link](https://aclanthology.org/2026.acl-long.242.pdf) | [code](https://github.com/ffhibnese/BadRDM_Backdoor_RAG_diffusion_models) |
-
+| 2026.06 | Customization under Fire: Plugin Poisoning in Text-to-Image Ecosystem | CCS'26 | [link](https://arxiv.org/pdf/2606.09151) | - |
 
 
 #### Backdoor Defense
@@ -199,7 +199,7 @@ Multimodal Models: A Survey</strong></p>
 | 2026.01 | State Backdoor: Towards Stealthy Real-world Poisoning Attack on Vision-Language-Action Model in State Space | arXiv | [link](https://www.arxiv.org/abs/2601.04266) |                      -                      |
 | 2026.02 | Inject Once Survive Later: Backdooring Vision-Language-Action Models to Persist Through Downstream Fine-tuning | arXiv |[link](https://arxiv.org/pdf/2602.00500) | [code](https://jianyi2004.github.io/infuse-vla-backdoor/) |
 
-- GUI
+- GUI Agents
   
 | Time    | Title                                                        |  Venue   |                            Paper                             |                        Code                         |
 | ------- | ------------------------------------------------------------ | :------: | :----------------------------------------------------------: | :-------------------------------------------------: |
@@ -208,6 +208,12 @@ Multimodal Models: A Survey</strong></p>
 | 2025.07 | VisualTrap: A Stealthy Backdoor Attack on GUI Agents via Visual Grounding Manipulation | COLM‘25  | [link](https://openreview.net/forum?id=7HPuAkgdVm#discussion) |    [code](https://github.com/whi497/VisualTrap)     |
 | 2025.09 | Realistic Environmental Injection Attacks on GUI Agents  |  arXiv   |           [link](https://arxiv.org/abs/2509.11250)           | [code](https://github.com/zhangyitonggg/attack2gui) |
 | 2026.03 | SlowBA: An efficiency backdoor attack towards VLM-based GUI agents | arXiv | [link](https://arxiv.org/pdf/2603.08316) | [code](https://github.com/tu-tuing/SlowBA) | 
+
+- Web Agents
+  
+| Time    | Title                                                        |  Venue   |                            Paper                             |                        Code                         |
+| ------- | ------------------------------------------------------------ | :------: | :----------------------------------------------------------: | :-------------------------------------------------: |
+| 2026.06 | MemVenom: Triggered Poisoning of Multimodal Memories in Web Agents | arXiv | [link](https://arxiv.org/pdf/2606.10742) | 
 
 
 #### Backdoor Defense
