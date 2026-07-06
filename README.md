@@ -78,8 +78,7 @@ Multimodal Models: A Survey</strong></p>
 | 2026.03 | DIFT: Protecting Contrastive Learning Against Data Poisoning Backdoor Attacks | AAAI'26 | [link](https://ojs.aaai.org/index.php/AAAI/article/view/37141) | - |
 | 2026.03 | BackdoorIDS: Zero-shot Backdoor Detection for Pretrained Vision Encoder | arXiv | [link](https://arxiv.org/pdf/2603.11664) | [code](https://github.com/siquanhuang/BackdoorIDS) |
 | 2026.04 | CLIP-Inspector: Model-Level Backdoor Detection for Prompt-Tuned CLIP via OOD Trigger Inversion | arXiv | [link](https://arxiv.org/pdf/2604.09101) | - |
-
-
+| 2026.06 | Beyond Native Success: Auditing Deployment-Interface Exposure of CLIP Backdoors | arXiv | [link](https://arxiv.org/pdf/2606.17815) | - |
 
 ### Text Conditioned Diffusion Models
 
