@@ -50,6 +50,7 @@ Multimodal Models: A Survey</strong></p>
 | 2026.02    | BadCLIP++: Stealthy and Persistent Backdoors in Multimodal Contrastive Learning | arXiv | [link](https://arxiv.org/pdf/2602.17168) | - |
 | 2026.03 | Dormant Backdoor: Weaponizing Model Finetuning for Feasible Backdoor Attacks against Pretrained Models | AAAI'26 | [link](https://ojs.aaai.org/index.php/AAAI/article/view/39480) | [code](https://github.com/Blury233/FinetuningBackdoor/) |
 | 2026.04 | TEALTHY AND ADJUSTABLE TEXT-GUIDED BACKDOOR ATTACKS ON MULTIMODAL PRETRAINED MODELS |  arXiv | [link](https://arxiv.org/pdf/2604.05809) | [code](https://github.com/feng07zyy/TGB) | 
+| 2026.06 | Retrievals Can Be Detrimental: Unveiling the Backdoor Vulnerability of Retrieval-Augmented Diffusion Models | ACL'26 | [link](https://aclanthology.org/2026.acl-long.242.pdf) | [code](https://github.com/ffhibnese/BadRDM_Backdoor_RAG_diffusion_models) |
 
 
 #### Backdoor Defense
