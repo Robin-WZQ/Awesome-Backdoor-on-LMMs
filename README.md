@@ -114,8 +114,10 @@ Multimodal Models: A Survey</strong></p>
 | 2026.02 | When Backdoors Go Beyond Triggers: Semantic Drift in Diffusion Models Under Encoder Attacks | arXiv'26 | [link](https://arxiv.org/pdf/2602.20193) | - |
 | 2026.02 | When LoRA Betrays: Backdooring Text-to-Image Models by Masquerading as Benign Adapters | CVPR'26 | [link](https://arxiv.org/pdf/2602.21977) | [code](https://github.com/spectre-init/MasqLora) |
 | 2026.03 | Tuning Just Enough: Lightweight Backdoor Attacks on Multi-Encoder Diffusion Models | ICLRW'26 | [link](https://arxiv.org/pdf/2603.04064) | - |
+| 2026.06 | Inference-Configuration Robust Backdoor Attacks on Diffusion Models via Cross-Timestep Consistent Trigger | IEEE Access | [link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11559595) | - |
 | 2026.06 | GoodDiffusion: Proactive Copyright Protection for Diffusion Bridge Models via Learnable Sample-specific Signatures | arXiv | [link](https://arxiv.org/pdf/2606.29759) | [code](https://github.com/qsx830/GoodDiffusion) |
 | 2026.06 | Retrievals Can Be Detrimental: Unveiling the Backdoor Vulnerability of Retrieval-Augmented Diffusion Models | ACL'26 | [link](https://aclanthology.org/2026.acl-long.242.pdf) | [code](https://github.com/ffhibnese/BadRDM_Backdoor_RAG_diffusion_models) |
+
 
 
 #### Backdoor Defense
