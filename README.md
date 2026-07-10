@@ -115,6 +115,7 @@ Multimodal Models: A Survey</strong></p>
 | 2026.02 | When Backdoors Go Beyond Triggers: Semantic Drift in Diffusion Models Under Encoder Attacks | arXiv'26 | [link](https://arxiv.org/pdf/2602.20193) | - |
 | 2026.02 | When LoRA Betrays: Backdooring Text-to-Image Models by Masquerading as Benign Adapters | CVPR'26 | [link](https://arxiv.org/pdf/2602.21977) | [code](https://github.com/spectre-init/MasqLora) |
 | 2026.03 | Tuning Just Enough: Lightweight Backdoor Attacks on Multi-Encoder Diffusion Models | ICLRW'26 | [link](https://arxiv.org/pdf/2603.04064) | - |
+| 2026.05 | PersGuard: Preventing Malicious Personalization in Text-to-Image Diffusion Models via Model Backdoors | TDSC'26 | [link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11523584) | - |
 | 2026.06 | Inference-Configuration Robust Backdoor Attacks on Diffusion Models via Cross-Timestep Consistent Trigger | IEEE Access | [link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11559595) | - |
 | 2026.06 | GoodDiffusion: Proactive Copyright Protection for Diffusion Bridge Models via Learnable Sample-specific Signatures | arXiv | [link](https://arxiv.org/pdf/2606.29759) | [code](https://github.com/qsx830/GoodDiffusion) |
 | 2026.06 | Retrievals Can Be Detrimental: Unveiling the Backdoor Vulnerability of Retrieval-Augmented Diffusion Models | ACL'26 | [link](https://aclanthology.org/2026.acl-long.242.pdf) | [code](https://github.com/ffhibnese/BadRDM_Backdoor_RAG_diffusion_models) |
@@ -167,6 +168,7 @@ Multimodal Models: A Survey</strong></p>
 | 2026.04 | Multimodal Backdoor Attack on VLMs for Autonomous Driving via Graffiti and Cross-Lingual Triggers | arXiv | [link](https://arxiv.org/pdf/2604.04630) | - |
 | 2026.04 | Follow My Eyes: Backdoor Attacks on VLM-based Scanpath Prediction | arXiv | [link](https://arxiv.org/pdf/2604.08766) | - |
 | 2026.04 | Phantasia: Context-Adaptive Backdoors in Vision Language Models | arXiv | [link](https://arxiv.org/pdf/2604.08395) | [code](https://github.com/nduongw/Phantasia) | 
+| 2026.05 | Cross-Modal Backdoors in Multimodal Large Language Models | arXiv | [link](https://arxiv.org/pdf/2605.07490) | - |
 | 2026.07 | ReShift: Aha-Moment-Driven Reasoning-Level Backdoor Attacks on Vision–Language Models | arXiv | [link](https://arxiv.org/pdf/2607.00361) | [code](https://github.com/AlbertZhaoCA/ReShift) |
 
 
@@ -199,6 +201,7 @@ Multimodal Models: A Survey</strong></p>
 | 2025.11 | AttackVLA: Benchmarking Adversarial and Backdoor Attacks on Vision-Language-Action Models |  arXiv   |           [link](https://arxiv.org/abs/2511.12149)           |                          -                          |
 | 2026.01 | State Backdoor: Towards Stealthy Real-world Poisoning Attack on Vision-Language-Action Model in State Space | arXiv | [link](https://www.arxiv.org/abs/2601.04266) |                      -                      |
 | 2026.02 | Inject Once Survive Later: Backdooring Vision-Language-Action Models to Persist Through Downstream Fine-tuning | arXiv |[link](https://arxiv.org/pdf/2602.00500) | [code](https://jianyi2004.github.io/infuse-vla-backdoor/) |
+| 2026.05 | Towards Backdoor-Based Ownership Verification for Vision-Language-Action Models | arXiv | [link](https://arxiv.org/pdf/2605.09005) | - |
 
 - GUI Agents
   
@@ -226,6 +229,7 @@ Multimodal Models: A Survey</strong></p>
 | Time    | Title                                                        |  Venue   |                            Paper                             |                        Code                         |
 | ------- | ------------------------------------------------------------ | :------: | :----------------------------------------------------------: | :-------------------------------------------------: |
 | 2026.03 | Self-Purification Mitigates Backdoors in Multimodal Diffusion Language Models | arXiv | [link](https://arxiv.org/pdf/2602.22246) | [code](https://github.com/bigglesworthnotacat/Diffusion_Self_Purification) |
+| 2026.05 | BadDLM: Backdooring Diffusion Language Models with Diverse Targets | arXiv | [link](https://arxiv.org/pdf/2605.09397) | - |
 
 ## Other Related Awesome Repository
 
