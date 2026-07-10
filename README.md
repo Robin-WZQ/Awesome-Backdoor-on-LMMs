@@ -116,6 +116,8 @@ Multimodal Models: A Survey</strong></p>
 | 2026.02 | When LoRA Betrays: Backdooring Text-to-Image Models by Masquerading as Benign Adapters | CVPR'26 | [link](https://arxiv.org/pdf/2602.21977) | [code](https://github.com/spectre-init/MasqLora) |
 | 2026.03 | Tuning Just Enough: Lightweight Backdoor Attacks on Multi-Encoder Diffusion Models | ICLRW'26 | [link](https://arxiv.org/pdf/2603.04064) | - |
 | 2026.05 | PersGuard: Preventing Malicious Personalization in Text-to-Image Diffusion Models via Model Backdoors | TDSC'26 | [link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11523584) | - |
+| 2026.05 | DiffusionHijack: Supply-Chain PRNG Backdoor Attack on Diffusion Models and Quantum Random Number Defense | arXiv | [link](https://arxiv.org/pdf/2605.13115) | - |
+| 2026.05 | Beyond the False Trade-off: Adaptive EWC for Stealthy and Generalizable T2I Backdoors | arXiv | [link](https://arxiv.org/pdf/2605.08280) | - |
 | 2026.06 | Inference-Configuration Robust Backdoor Attacks on Diffusion Models via Cross-Timestep Consistent Trigger | IEEE Access | [link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11559595) | - |
 | 2026.06 | GoodDiffusion: Proactive Copyright Protection for Diffusion Bridge Models via Learnable Sample-specific Signatures | arXiv | [link](https://arxiv.org/pdf/2606.29759) | [code](https://github.com/qsx830/GoodDiffusion) |
 | 2026.06 | Retrievals Can Be Detrimental: Unveiling the Backdoor Vulnerability of Retrieval-Augmented Diffusion Models | ACL'26 | [link](https://aclanthology.org/2026.acl-long.242.pdf) | [code](https://github.com/ffhibnese/BadRDM_Backdoor_RAG_diffusion_models) |
@@ -164,11 +166,13 @@ Multimodal Models: A Survey</strong></p>
 | 2025.09 | TokenSwap: Backdoor Attack on the Compositional Understanding of Large Vision-Language Models |   arXiv    |           [link](https://arxiv.org/abs/2509.24566)           | [code](https://anonymous.4open.science/r/tokenswap-341F) |
 | 2025.11 | MTAttack: Multi-Target Backdoor Attacks against Large Vision-LanguageModels | arXiv | [link](https://arxiv.org/abs/2511.10098) | [code](https://github.com/mala-lab/MTAttack) |
 | 2025.11 | BackdoorVLM: A Benchmark for Backdoor Attacks on Vision-Language Models | arXiv | [link](https://arxiv.org/abs/2511.18921) | [code](https://github.com/bin015/BackdoorVLM)|
+| 2025.12 | BadVLM: Towards Efficient and Resilient Backdoor Attacks on Large Vision-Language Models | CVPR'26 | [link](https://openaccess.thecvf.com/content/CVPR2026F/papers/Dang_BadVLM_Towards_Efficient_and_Resilient_Backdoor_Attacks_on_Large_Vision-Language_CVPRF_2026_paper.pdf) | - | 
 | 2026.04 | HIDDEN ADS: Behavior-Triggered Semantic Backdoors for Advertisement Injection in Vision–Language Models | arXiv | [link](https://arxiv.org/pdf/2603.27522) | - |
 | 2026.04 | Multimodal Backdoor Attack on VLMs for Autonomous Driving via Graffiti and Cross-Lingual Triggers | arXiv | [link](https://arxiv.org/pdf/2604.04630) | - |
 | 2026.04 | Follow My Eyes: Backdoor Attacks on VLM-based Scanpath Prediction | arXiv | [link](https://arxiv.org/pdf/2604.08766) | - |
 | 2026.04 | Phantasia: Context-Adaptive Backdoors in Vision Language Models | arXiv | [link](https://arxiv.org/pdf/2604.08395) | [code](https://github.com/nduongw/Phantasia) | 
 | 2026.05 | Cross-Modal Backdoors in Multimodal Large Language Models | arXiv | [link](https://arxiv.org/pdf/2605.07490) | - |
+| 2026.05 | CBV: Clean-label Backdoor Attacks on Vision Language Models via Diffusion Models | ICML'26 | [link](https://arxiv.org/pdf/2605.02202) | - |
 | 2026.07 | ReShift: Aha-Moment-Driven Reasoning-Level Backdoor Attacks on Vision–Language Models | arXiv | [link](https://arxiv.org/pdf/2607.00361) | [code](https://github.com/AlbertZhaoCA/ReShift) |
 
 
@@ -211,6 +215,7 @@ Multimodal Models: A Survey</strong></p>
 | 2025.06 | Poison Once, Control Anywhere: Clean-Text Visual Backdoors in VLM-based Mobile Agents |  arXiv   |           [link](https://arxiv.org/abs/2506.13205)           |  - |
 | 2025.07 | VisualTrap: A Stealthy Backdoor Attack on GUI Agents via Visual Grounding Manipulation | COLM‘25  | [link](https://openreview.net/forum?id=7HPuAkgdVm#discussion) |    [code](https://github.com/whi497/VisualTrap)     |
 | 2025.09 | Realistic Environmental Injection Attacks on GUI Agents  |  arXiv   |           [link](https://arxiv.org/abs/2509.11250)           | [code](https://github.com/zhangyitonggg/attack2gui) |
+| 2025.12 | AdapAction: Adaptive Target Action Backdoor Attack against GUI Agents | CVPR'26 | [link](https://openaccess.thecvf.com/content/CVPR2026/papers/Chen_AdapAction_Adaptive_Target_Action_Backdoor_Attack_against_GUI_Agents_CVPR_2026_paper.pdf) | - |
 | 2026.03 | SlowBA: An efficiency backdoor attack towards VLM-based GUI agents | arXiv | [link](https://arxiv.org/pdf/2603.08316) | [code](https://github.com/tu-tuing/SlowBA) | 
 
 - Web Agents
