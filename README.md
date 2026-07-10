@@ -50,7 +50,7 @@ Multimodal Models: A Survey</strong></p>
 | 2026.02    | BadCLIP++: Stealthy and Persistent Backdoors in Multimodal Contrastive Learning | arXiv | [link](https://arxiv.org/pdf/2602.17168) | - |
 | 2026.03 | Dormant Backdoor: Weaponizing Model Finetuning for Feasible Backdoor Attacks against Pretrained Models | AAAI'26 | [link](https://ojs.aaai.org/index.php/AAAI/article/view/39480) | [code](https://github.com/Blury233/FinetuningBackdoor/) |
 | 2026.04 | TEALTHY AND ADJUSTABLE TEXT-GUIDED BACKDOOR ATTACKS ON MULTIMODAL PRETRAINED MODELS |  arXiv | [link](https://arxiv.org/pdf/2604.05809) | [code](https://github.com/feng07zyy/TGB) | 
-
+| 2026.05 | Rapid Switchable Backdoor Attack on Any CLIP Model with Multiple Target Classes | TMM'25 | [link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11552011) | = |
 
 
 #### Backdoor Defense
@@ -173,6 +173,7 @@ Multimodal Models: A Survey</strong></p>
 | 2026.04 | Phantasia: Context-Adaptive Backdoors in Vision Language Models | arXiv | [link](https://arxiv.org/pdf/2604.08395) | [code](https://github.com/nduongw/Phantasia) | 
 | 2026.05 | Cross-Modal Backdoors in Multimodal Large Language Models | arXiv | [link](https://arxiv.org/pdf/2605.07490) | - |
 | 2026.05 | CBV: Clean-label Backdoor Attacks on Vision Language Models via Diffusion Models | ICML'26 | [link](https://arxiv.org/pdf/2605.02202) | - |
+| 2026.05 | BADBONE: Backdoor Attacks Against Backbone Models in Visual Prompt Learning | arXiv | [link](https://arxiv.org/pdf/2605.31246) | [code](https://github.com/TrustAIRLab/BadBone) |
 | 2026.07 | ReShift: Aha-Moment-Driven Reasoning-Level Backdoor Attacks on Vision–Language Models | arXiv | [link](https://arxiv.org/pdf/2607.00361) | [code](https://github.com/AlbertZhaoCA/ReShift) |
 
 
