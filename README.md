@@ -207,6 +207,7 @@ Multimodal Models: A Survey</strong></p>
 | 2026.01 | State Backdoor: Towards Stealthy Real-world Poisoning Attack on Vision-Language-Action Model in State Space | arXiv | [link](https://www.arxiv.org/abs/2601.04266) |                      -                      |
 | 2026.02 | Inject Once Survive Later: Backdooring Vision-Language-Action Models to Persist Through Downstream Fine-tuning | arXiv |[link](https://arxiv.org/pdf/2602.00500) | [code](https://jianyi2004.github.io/infuse-vla-backdoor/) |
 | 2026.05 | Towards Backdoor-Based Ownership Verification for Vision-Language-Action Models | arXiv | [link](https://arxiv.org/pdf/2605.09005) | - |
+| 2026.07 | !Imperio, smolVLA: The Implications of Data Poisoning on Open Source Robotics | KI'26 | [link](https://arxiv.org/abs/2607.04146) | [code](https://github.com/StefanBuhler/ImperioVLAPoisoning) |
 
 - GUI Agents
   
