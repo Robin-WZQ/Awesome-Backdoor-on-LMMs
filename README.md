@@ -231,12 +231,15 @@ Multimodal Models: A Survey</strong></p>
 | Time    | Title                                                        |  Venue   |                            Paper                             |                        Code                         |
 | ------- | ------------------------------------------------------------ | :------: | :----------------------------------------------------------: | :-------------------------------------------------: |
 | 2026.02 | When Attention Betrays: Erasing Backdoor Attacks in Robotic Policies by Reconstructing Visual Tokens | ICRA'26 | [link](https://arxiv.org/abs/2602.03153) | - |
+| 2026.07 | TrustVLA: Mechanism-Guided Inference-Time Defense Against Vision-Language-Action Backdoors | arXiv | [link](https://arxiv.org/abs/2607.12571) | - |
 
 ### Others
 | Time    | Title                                                        |  Venue   |                            Paper                             |                        Code                         |
 | ------- | ------------------------------------------------------------ | :------: | :----------------------------------------------------------: | :-------------------------------------------------: |
 | 2026.03 | Self-Purification Mitigates Backdoors in Multimodal Diffusion Language Models | arXiv | [link](https://arxiv.org/pdf/2602.22246) | [code](https://github.com/bigglesworthnotacat/Diffusion_Self_Purification) |
 | 2026.05 | BadDLM: Backdooring Diffusion Language Models with Diverse Targets | arXiv | [link](https://arxiv.org/pdf/2605.09397) | - |
+| 2026.06 | BadDreamer: Transferable Backdoor Attacks against Video World Models for Autonomous Driving | arXiv | [link](https://arxiv.org/abs/2606.21172) | - |
+| 2026.07 | EmoAttack: Leveraging Adaptive Prompt Optimization for Multimodal Emotion Backdoor Attacks | IPM'27 | [link](https://www.sciencedirect.com/science/article/pii/S0306457326004358) | - |
 
 ## Other Related Awesome Repository
 
