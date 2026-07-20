@@ -239,7 +239,7 @@ Multimodal Models: A Survey</strong></p>
 | 2026.03 | Self-Purification Mitigates Backdoors in Multimodal Diffusion Language Models | arXiv | [link](https://arxiv.org/pdf/2602.22246) | [code](https://github.com/bigglesworthnotacat/Diffusion_Self_Purification) |
 | 2026.05 | BadDLM: Backdooring Diffusion Language Models with Diverse Targets | arXiv | [link](https://arxiv.org/pdf/2605.09397) | - |
 | 2026.06 | BadDreamer: Transferable Backdoor Attacks against Video World Models for Autonomous Driving | arXiv | [link](https://arxiv.org/abs/2606.21172) | - |
-| 2026.07 | EmoAttack: Leveraging Adaptive Prompt Optimization for Multimodal Emotion Backdoor Attacks | IPM'27 | [link](https://www.sciencedirect.com/science/article/pii/S0306457326004358) | - |
+| 2026.07 | EmoAttack: Leveraging Adaptive Prompt Optimization for Multimodal Emotion Backdoor Attacks | IPM'26 | [link](https://www.sciencedirect.com/science/article/pii/S0306457326004358) | - |
 
 ## Other Related Awesome Repository
 
