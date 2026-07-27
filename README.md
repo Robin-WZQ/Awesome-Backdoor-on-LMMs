@@ -122,6 +122,7 @@ Multimodal Models: A Survey</strong></p>
 | 2026.06 | GoodDiffusion: Proactive Copyright Protection for Diffusion Bridge Models via Learnable Sample-specific Signatures | arXiv | [link](https://arxiv.org/pdf/2606.29759) | [code](https://github.com/qsx830/GoodDiffusion) |
 | 2026.06 | Retrievals Can Be Detrimental: Unveiling the Backdoor Vulnerability of Retrieval-Augmented Diffusion Models | ACL'26 | [link](https://aclanthology.org/2026.acl-long.242.pdf) | [code](https://github.com/ffhibnese/BadRDM_Backdoor_RAG_diffusion_models) |
 | 2026.06 | Customization under Fire: Plugin Poisoning in Text-to-Image Ecosystem | CCS'26 | [link](https://arxiv.org/pdf/2606.09151) | - |
+| 2026.07 | Reducing Semantic Trigger Leakage in Backdoored Text-to-Image Diffusion Models | ICME'26 | [link](https://ieeexplore.ieee.org/document/11605619) | - |
 
 
 #### Backdoor Defense
