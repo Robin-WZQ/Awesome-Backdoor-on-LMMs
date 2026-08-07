@@ -117,6 +117,7 @@ Multimodal Models: A Survey</strong></p>
 | 2026.03 | Tuning Just Enough: Lightweight Backdoor Attacks on Multi-Encoder Diffusion Models | ICLRW'26 | [link](https://arxiv.org/pdf/2603.04064) | - |
 | 2026.05 | PersGuard: Preventing Malicious Personalization in Text-to-Image Diffusion Models via Model Backdoors | TDSC'26 | [link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11523584) | - |
 | 2026.05 | DiffusionHijack: Supply-Chain PRNG Backdoor Attack on Diffusion Models and Quantum Random Number Defense | arXiv | [link](https://arxiv.org/pdf/2605.13115) | - |
+| 2026.05 | Awakening the Hydra: Stabilizing Multi-Concept Backdoor Injection in Text-to-Image Diffusion Models | arXiv | [link](https://arxiv.org/abs/2605.19698) | - |
 | 2026.05 | Beyond the False Trade-off: Adaptive EWC for Stealthy and Generalizable T2I Backdoors | arXiv | [link](https://arxiv.org/pdf/2605.08280) | - |
 | 2026.06 | Inference-Configuration Robust Backdoor Attacks on Diffusion Models via Cross-Timestep Consistent Trigger | IEEE Access | [link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11559595) | - |
 | 2026.06 | GoodDiffusion: Proactive Copyright Protection for Diffusion Bridge Models via Learnable Sample-specific Signatures | arXiv | [link](https://arxiv.org/pdf/2606.29759) | [code](https://github.com/qsx830/GoodDiffusion) |
@@ -176,6 +177,7 @@ Multimodal Models: A Survey</strong></p>
 | 2026.05 | CBV: Clean-label Backdoor Attacks on Vision Language Models via Diffusion Models | ICML'26 | [link](https://arxiv.org/pdf/2605.02202) | - |
 | 2026.05 | BADBONE: Backdoor Attacks Against Backbone Models in Visual Prompt Learning | arXiv | [link](https://arxiv.org/pdf/2605.31246) | [code](https://github.com/TrustAIRLab/BadBone) |
 | 2026.07 | ReShift: Aha-Moment-Driven Reasoning-Level Backdoor Attacks on Vision–Language Models | arXiv | [link](https://arxiv.org/pdf/2607.00361) | [code](https://github.com/AlbertZhaoCA/ReShift) |
+| 2026.07 | Architectural Backdoors in Vision-Language Model Supply Chains via Representation Steering | arXiv | [link](https://arxiv.org/abs/2607.25479) | - |
 
 
 #### Backdoor Defense
