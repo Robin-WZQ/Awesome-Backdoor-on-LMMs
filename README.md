@@ -80,6 +80,7 @@ Multimodal Models: A Survey</strong></p>
 | 2026.04 | CLIP-Inspector: Model-Level Backdoor Detection for Prompt-Tuned CLIP via OOD Trigger Inversion | arXiv | [link](https://arxiv.org/pdf/2604.09101) | - |
 | 2026.06 | Beyond Native Success: Auditing Deployment-Interface Exposure of CLIP Backdoors | arXiv | [link](https://arxiv.org/pdf/2606.17815) | - |
 | 2026.06 | Region-Level Black-Box Defense Against Stealthy Embedding-Space Backdoors in CLIP | PAKDD'26 | [link](https://link.springer.com/chapter/10.1007/978-981-92-1947-6_20) | [code](https://github.com/wsu-cyber-security-lab-ai/CLIPGuard) |
+| 2026.08 | When Modalities Fail to Tango: Conformal Backdoor Detection in Multimodal Contrastive Learning | arXiv | [link](https://arxiv.org/abs/2608.04052) | - |
 
 ### Text Conditioned Diffusion Models
 
