@@ -125,6 +125,7 @@ Multimodal Models: A Survey</strong></p>
 | 2026.06 | Retrievals Can Be Detrimental: Unveiling the Backdoor Vulnerability of Retrieval-Augmented Diffusion Models | ACL'26 | [link](https://aclanthology.org/2026.acl-long.242.pdf) | [code](https://github.com/ffhibnese/BadRDM_Backdoor_RAG_diffusion_models) |
 | 2026.06 | Customization under Fire: Plugin Poisoning in Text-to-Image Ecosystem | CCS'26 | [link](https://arxiv.org/pdf/2606.09151) | - |
 | 2026.07 | Reducing Semantic Trigger Leakage in Backdoored Text-to-Image Diffusion Models | ICME'26 | [link](https://ieeexplore.ieee.org/document/11605619) | - |
+| 2026.07 | Cross-Lingual Vulnerabilities of Text-to-Image Models: Evaluating Data Poisoning Attacks Across Ten Languages | ICPR'26 | [link](https://link.springer.com/chapter/10.1007/978-3-032-31441-3_7) | - |
 
 
 #### Backdoor Defense
@@ -179,6 +180,7 @@ Multimodal Models: A Survey</strong></p>
 | 2026.05 | BADBONE: Backdoor Attacks Against Backbone Models in Visual Prompt Learning | arXiv | [link](https://arxiv.org/pdf/2605.31246) | [code](https://github.com/TrustAIRLab/BadBone) |
 | 2026.07 | ReShift: Aha-Moment-Driven Reasoning-Level Backdoor Attacks on Vision–Language Models | arXiv | [link](https://arxiv.org/pdf/2607.00361) | [code](https://github.com/AlbertZhaoCA/ReShift) |
 | 2026.07 | Architectural Backdoors in Vision-Language Model Supply Chains via Representation Steering | arXiv | [link](https://arxiv.org/abs/2607.25479) | - |
+| 2026.08 | Once Poisoned, Arbitrarily Controlled: A Programmable Backdoor in VLMs | arXiv | [link](https://arxiv.org/abs/2608.10959) | - |
 
 
 #### Backdoor Defense
