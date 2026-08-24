@@ -62,6 +62,7 @@ Multimodal Models: A Survey</strong></p>
 | 2023.03     |   Robust Contrastive Language-Image Pre-training against Data Poisoning and Backdoor Attacks    |   NeurIPS'23     | [link](https://proceedings.neurips.cc/paper_files/paper/2023/hash/2232e8fee69b150005ac420bfa83d705-Abstract-Conference.html) | - |
 | 2023.03    |  Detecting Backdoors in Pre-trained Encoders  |  CVPR'23    | [link](https://openaccess.thecvf.com/content/CVPR2023/html/Feng_Detecting_Backdoors_in_Pre-Trained_Encoders_CVPR_2023_paper.html) | [code](https://github.com/GiantSeaweed/DECREE) |
 | 2023.10   |  Better Safe than Sorry: Pre-training CLIP against Targeted Data Poisoning and Backdoor Attacks   | ICML'24   | [link](https://arxiv.org/abs/2310.05862) | [code](https://github.com/BigML-CS-UCLA/SafeCLIP)|
+| 2023.11 | Effective Backdoor Mitigation in Vision-Language Models Depends on the Pre-training Objective | TMLR'25 | [link](https://arxiv.org/abs/2311.14948) | - |
  | 2024.03    | Unlearning Backdoor Threats: Enhancing Backdoor Defense in Multimodal Contrastive Learning via Local Token Unlearning      |   CVPRW'24    | [link](https://arxiv.org/abs/2403.16257) | - |
 | 2024.09     | Adversarial Backdoor Defense in CLIP      |  arXiv     | [link](https://arxiv.org/abs/2409.15968) | - |
 | 2024.09     | CleanerCLIP: Fine-grained Counterfactual Semantic Augmentation for Backdoor| arXiv | [link](https://arxiv.org/abs/2409.17601) | - |
@@ -178,6 +179,7 @@ Multimodal Models: A Survey</strong></p>
 | 2026.05 | Cross-Modal Backdoors in Multimodal Large Language Models | arXiv | [link](https://arxiv.org/pdf/2605.07490) | - |
 | 2026.05 | CBV: Clean-label Backdoor Attacks on Vision Language Models via Diffusion Models | ICML'26 | [link](https://arxiv.org/pdf/2605.02202) | - |
 | 2026.05 | BADBONE: Backdoor Attacks Against Backbone Models in Visual Prompt Learning | arXiv | [link](https://arxiv.org/pdf/2605.31246) | [code](https://github.com/TrustAIRLab/BadBone) |
+| 2026.05 | BadTail: Exploiting Rationale Tails for Stealthy Multimodal Backdoor Attacks | ICASSP'26 | [link](https://ieeexplore.ieee.org/document/11462625) | - |
 | 2026.07 | ReShift: Aha-Moment-Driven Reasoning-Level Backdoor Attacks on Vision–Language Models | arXiv | [link](https://arxiv.org/pdf/2607.00361) | [code](https://github.com/AlbertZhaoCA/ReShift) |
 | 2026.07 | Architectural Backdoors in Vision-Language Model Supply Chains via Representation Steering | arXiv | [link](https://arxiv.org/abs/2607.25479) | - |
 | 2026.08 | Once Poisoned, Arbitrarily Controlled: A Programmable Backdoor in VLMs | arXiv | [link](https://arxiv.org/abs/2608.10959) | - |
@@ -202,6 +204,12 @@ Multimodal Models: A Survey</strong></p>
 ### VLM-based Embodied AI
 
 #### Backdoor Attack
+
+- Embodied Agents
+
+| Time    | Title                                                        |  Venue   |                            Paper                             |                        Code                         |
+| ------- | ------------------------------------------------------------ | :------: | :----------------------------------------------------------: | :-------------------------------------------------: |
+| 2025.10 | BEAT: Visual Backdoor Attacks on VLM-based Embodied Agents via Contrastive Trigger Learning | ICLR'26 | [link](https://arxiv.org/abs/2510.27623) | - |
 
 - VLA
 
