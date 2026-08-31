@@ -51,6 +51,7 @@ Multimodal Models: A Survey</strong></p>
 | 2026.03 | Dormant Backdoor: Weaponizing Model Finetuning for Feasible Backdoor Attacks against Pretrained Models | AAAI'26 | [link](https://ojs.aaai.org/index.php/AAAI/article/view/39480) | [code](https://github.com/Blury233/FinetuningBackdoor/) |
 | 2026.04 | TEALTHY AND ADJUSTABLE TEXT-GUIDED BACKDOOR ATTACKS ON MULTIMODAL PRETRAINED MODELS |  arXiv | [link](https://arxiv.org/pdf/2604.05809) | [code](https://github.com/feng07zyy/TGB) | 
 | 2026.05 | Rapid Switchable Backdoor Attack on Any CLIP Model with Multiple Target Classes | TMM'25 | [link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11552011) | = |
+| 2026.08 | Backdoor Attacks on CLIP via Prompt Learning | TPAMI'26 | [link](https://pubmed.ncbi.nlm.nih.gov/42647717/) | [code](https://github.com/jiawangbai/BadCLIP) |
 
 
 #### Backdoor Defense
