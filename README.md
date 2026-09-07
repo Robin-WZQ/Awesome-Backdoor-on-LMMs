@@ -51,6 +51,7 @@ Multimodal Models: A Survey</strong></p>
 | 2026.03 | Dormant Backdoor: Weaponizing Model Finetuning for Feasible Backdoor Attacks against Pretrained Models | AAAI'26 | [link](https://ojs.aaai.org/index.php/AAAI/article/view/39480) | [code](https://github.com/Blury233/FinetuningBackdoor/) |
 | 2026.04 | TEALTHY AND ADJUSTABLE TEXT-GUIDED BACKDOOR ATTACKS ON MULTIMODAL PRETRAINED MODELS |  arXiv | [link](https://arxiv.org/pdf/2604.05809) | [code](https://github.com/feng07zyy/TGB) | 
 | 2026.05 | Rapid Switchable Backdoor Attack on Any CLIP Model with Multiple Target Classes | TMM'25 | [link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11552011) | = |
+| 2026.06 | BadPromptFL: Parameters-Free Backdoor Attack on Vision-Language Federated Learning | TCSVT'26 | [link](https://ieeexplore.ieee.org/document/11569791/) | - |
 | 2026.08 | Backdoor Attacks on CLIP via Prompt Learning | TPAMI'26 | [link](https://pubmed.ncbi.nlm.nih.gov/42647717/) | [code](https://github.com/jiawangbai/BadCLIP) |
 
 
@@ -172,6 +173,7 @@ Multimodal Models: A Survey</strong></p>
 | 2025.09 | TokenSwap: Backdoor Attack on the Compositional Understanding of Large Vision-Language Models |   arXiv    |           [link](https://arxiv.org/abs/2509.24566)           | [code](https://anonymous.4open.science/r/tokenswap-341F) |
 | 2025.11 | MTAttack: Multi-Target Backdoor Attacks against Large Vision-LanguageModels | arXiv | [link](https://arxiv.org/abs/2511.10098) | [code](https://github.com/mala-lab/MTAttack) |
 | 2025.11 | BackdoorVLM: A Benchmark for Backdoor Attacks on Vision-Language Models | arXiv | [link](https://arxiv.org/abs/2511.18921) | [code](https://github.com/bin015/BackdoorVLM)|
+| 2025.12 | Concept-Guided Backdoor Attack on Vision Language Models | arXiv | [link](https://arxiv.org/abs/2512.00713) | - |
 | 2025.12 | BadVLM: Towards Efficient and Resilient Backdoor Attacks on Large Vision-Language Models | CVPR'26 | [link](https://openaccess.thecvf.com/content/CVPR2026F/papers/Dang_BadVLM_Towards_Efficient_and_Resilient_Backdoor_Attacks_on_Large_Vision-Language_CVPRF_2026_paper.pdf) | - | 
 | 2026.04 | HIDDEN ADS: Behavior-Triggered Semantic Backdoors for Advertisement Injection in Vision–Language Models | arXiv | [link](https://arxiv.org/pdf/2603.27522) | - |
 | 2026.04 | Multimodal Backdoor Attack on VLMs for Autonomous Driving via Graffiti and Cross-Lingual Triggers | arXiv | [link](https://arxiv.org/pdf/2604.04630) | - |
