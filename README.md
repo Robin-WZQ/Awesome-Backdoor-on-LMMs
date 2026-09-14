@@ -119,6 +119,7 @@ Multimodal Models: A Survey</strong></p>
 | 2026.02 | When Backdoors Go Beyond Triggers: Semantic Drift in Diffusion Models Under Encoder Attacks | arXiv'26 | [link](https://arxiv.org/pdf/2602.20193) | - |
 | 2026.02 | When LoRA Betrays: Backdooring Text-to-Image Models by Masquerading as Benign Adapters | CVPR'26 | [link](https://arxiv.org/pdf/2602.21977) | [code](https://github.com/spectre-init/MasqLora) |
 | 2026.03 | Tuning Just Enough: Lightweight Backdoor Attacks on Multi-Encoder Diffusion Models | ICLRW'26 | [link](https://arxiv.org/pdf/2603.04064) | - |
+| 2026.03 | When One Modality Rules Them All: Backdoor Modality Collapse in Multimodal Diffusion Models | ICLRW'26 | [link](https://arxiv.org/abs/2603.06508) | - |
 | 2026.05 | PersGuard: Preventing Malicious Personalization in Text-to-Image Diffusion Models via Model Backdoors | TDSC'26 | [link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11523584) | - |
 | 2026.05 | DiffusionHijack: Supply-Chain PRNG Backdoor Attack on Diffusion Models and Quantum Random Number Defense | arXiv | [link](https://arxiv.org/pdf/2605.13115) | - |
 | 2026.05 | Awakening the Hydra: Stabilizing Multi-Concept Backdoor Injection in Text-to-Image Diffusion Models | arXiv | [link](https://arxiv.org/abs/2605.19698) | - |
