@@ -187,6 +187,7 @@ Multimodal Models: A Survey</strong></p>
 | 2026.07 | ReShift: Aha-Moment-Driven Reasoning-Level Backdoor Attacks on Vision–Language Models | arXiv | [link](https://arxiv.org/pdf/2607.00361) | [code](https://github.com/AlbertZhaoCA/ReShift) |
 | 2026.07 | Architectural Backdoors in Vision-Language Model Supply Chains via Representation Steering | arXiv | [link](https://arxiv.org/abs/2607.25479) | - |
 | 2026.08 | Once Poisoned, Arbitrarily Controlled: A Programmable Backdoor in VLMs | arXiv | [link](https://arxiv.org/abs/2608.10959) | - |
+| 2026.09 | FreqDoor: A Hidden Trojan in the Frequency Domain for Backdoor Attacks on Vision-Language Models | arXiv | [link](https://arxiv.org/abs/2609.07048) | - |
 
 
 #### Backdoor Defense
@@ -204,6 +205,7 @@ Multimodal Models: A Survey</strong></p>
 | 2026.03 | Self-Purification Mitigates Backdoors in Multimodal Diffusion Language Models | arXiv | [link](https://arxiv.org/pdf/2602.22246) | [code](https://arxiv.org/pdf/2602.22246) |
 | 2026.04 | A Patch-based Cross-view Regularized Framework for Backdoor Defense in Multimodal Large Language Models | arXiv | [link](https://arxiv.org/pdf/2604.04488) | - |
 | 2026.04 | Meta-Research on Backdoors: Dataset and Threat Model Shifts in Multimodal Backdoor Attacks | arXiv | [link](https://www.preprints.org/frontend/manuscript/e479c748fb4a67ec823add139acb1909/download_pub) | - |
+| 2026.08 | Not All Tokens Are Equal: Region-Aware Consistency Repair of Backdoors in MLLMs | arXiv | [link](https://arxiv.org/abs/2608.24354) | - |
 
 ### VLM-based Embodied AI
 
@@ -219,6 +221,7 @@ Multimodal Models: A Survey</strong></p>
 
 | Time    | Title                                                        |  Venue   |                            Paper                             |                        Code                         |
 | ------- | ------------------------------------------------------------ | :------: | :----------------------------------------------------------: | :-------------------------------------------------: |
+| 2026.04 | FlowHijack: A Dynamics-Aware Backdoor Attack on Flow-Matching Vision-Language-Action Models | CVPR'26 | [link](https://openaccess.thecvf.com/content/CVPR2026/html/An_FlowHijack_A_Dynamics-Aware_Backdoor_Attack_on_Flow-Matching_Vision-Language-Action_Models_CVPR_2026_paper.html) | - |
 | 2025.05 | BadVLA: Towards Backdoor Attacks on Vision-Language-Action Models via Objective-Decoupled Optimization |  arXiv   |           [link](https://arxiv.org/abs/2505.16640)           |     [code](https://github.com/Zxy-MLlab/BadVLA)     |
 | 2025.10 | TabVLA: Targeted Backdoor Attacks on Vision-Language-Action Models |  arXiv   |           [link](https://arxiv.org/abs/2510.10932)           |   [code](https://github.com/megaknight114/TabVLA)   |
 | 2025.11 | AttackVLA: Benchmarking Adversarial and Backdoor Attacks on Vision-Language-Action Models |  arXiv   |           [link](https://arxiv.org/abs/2511.12149)           |                          -                          |
