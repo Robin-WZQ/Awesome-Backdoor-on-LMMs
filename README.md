@@ -215,6 +215,7 @@ Multimodal Models: A Survey</strong></p>
 
 | Time    | Title                                                        |  Venue   |                            Paper                             |                        Code                         |
 | ------- | ------------------------------------------------------------ | :------: | :----------------------------------------------------------: | :-------------------------------------------------: |
+| 2024.11 | TrojanRobot: Physical-World Backdoor Attacks Against VLM-based Robotic Manipulation | arXiv | [link](https://arxiv.org/abs/2411.11683) | [code](https://github.com/TrojanRobot/TrojanRobot.github.io) |
 | 2025.10 | BEAT: Visual Backdoor Attacks on VLM-based Embodied Agents via Contrastive Trigger Learning | ICLR'26 | [link](https://arxiv.org/abs/2510.27623) | - |
 
 - VLA
@@ -224,8 +225,10 @@ Multimodal Models: A Survey</strong></p>
 | 2026.04 | FlowHijack: A Dynamics-Aware Backdoor Attack on Flow-Matching Vision-Language-Action Models | CVPR'26 | [link](https://openaccess.thecvf.com/content/CVPR2026/html/An_FlowHijack_A_Dynamics-Aware_Backdoor_Attack_on_Flow-Matching_Vision-Language-Action_Models_CVPR_2026_paper.html) | - |
 | 2025.05 | BadVLA: Towards Backdoor Attacks on Vision-Language-Action Models via Objective-Decoupled Optimization |  arXiv   |           [link](https://arxiv.org/abs/2505.16640)           |     [code](https://github.com/Zxy-MLlab/BadVLA)     |
 | 2025.10 | TabVLA: Targeted Backdoor Attacks on Vision-Language-Action Models |  arXiv   |           [link](https://arxiv.org/abs/2510.10932)           |   [code](https://github.com/megaknight114/TabVLA)   |
+| 2025.10 | Goal-oriented Backdoor Attack against Vision-Language-Action Models via Physical Objects | arXiv | [link](https://arxiv.org/abs/2510.09269) | [code](https://github.com/trustmlyoungscientist/GoBA_attack) |
 | 2025.11 | AttackVLA: Benchmarking Adversarial and Backdoor Attacks on Vision-Language-Action Models |  arXiv   |           [link](https://arxiv.org/abs/2511.12149)           |                          -                          |
 | 2026.01 | State Backdoor: Towards Stealthy Real-world Poisoning Attack on Vision-Language-Action Model in State Space | arXiv | [link](https://www.arxiv.org/abs/2601.04266) |                      -                      |
+| 2026.01 | SilentDrift: Exploiting Action Chunking for Stealthy Backdoor Attacks on Vision-Language-Action Models | Findings of ACL'26 | [link](https://aclanthology.org/2026.findings-acl.1725/) | - |
 | 2026.02 | Inject Once Survive Later: Backdooring Vision-Language-Action Models to Persist Through Downstream Fine-tuning | arXiv |[link](https://arxiv.org/pdf/2602.00500) | [code](https://jianyi2004.github.io/infuse-vla-backdoor/) |
 | 2026.05 | Towards Backdoor-Based Ownership Verification for Vision-Language-Action Models | arXiv | [link](https://arxiv.org/pdf/2605.09005) | - |
 | 2026.07 | !Imperio, smolVLA: The Implications of Data Poisoning on Open Source Robotics | KI'26 | [link](https://arxiv.org/abs/2607.04146) | [code](https://github.com/StefanBuhler/ImperioVLAPoisoning) |
