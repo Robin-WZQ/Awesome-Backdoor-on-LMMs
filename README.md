@@ -231,6 +231,7 @@ Multimodal Models: A Survey</strong></p>
 | 2026.01 | SilentDrift: Exploiting Action Chunking for Stealthy Backdoor Attacks on Vision-Language-Action Models | Findings of ACL'26 | [link](https://aclanthology.org/2026.findings-acl.1725/) | - |
 | 2026.02 | Inject Once Survive Later: Backdooring Vision-Language-Action Models to Persist Through Downstream Fine-tuning | arXiv |[link](https://arxiv.org/pdf/2602.00500) | [code](https://jianyi2004.github.io/infuse-vla-backdoor/) |
 | 2026.05 | Towards Backdoor-Based Ownership Verification for Vision-Language-Action Models | arXiv | [link](https://arxiv.org/pdf/2605.09005) | - |
+| 2026.05 | ATAAT: Adaptive Threat-Aware Adversarial Tuning Framework against Backdoor Attacks on Vision-Language-Action Models | Findings of ACL'26 | [link](https://aclanthology.org/2026.findings-acl.1077/) | - |
 | 2026.07 | !Imperio, smolVLA: The Implications of Data Poisoning on Open Source Robotics | KI'26 | [link](https://arxiv.org/abs/2607.04146) | [code](https://github.com/StefanBuhler/ImperioVLAPoisoning) |
 
 - GUI Agents
