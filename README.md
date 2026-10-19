@@ -53,6 +53,8 @@ Multimodal Models: A Survey</strong></p>
 | 2026.05 | Rapid Switchable Backdoor Attack on Any CLIP Model with Multiple Target Classes | TMM'25 | [link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11552011) | = |
 | 2026.06 | BadPromptFL: Parameters-Free Backdoor Attack on Vision-Language Federated Learning | TCSVT'26 | [link](https://ieeexplore.ieee.org/document/11569791/) | - |
 | 2026.08 | Backdoor Attacks on CLIP via Prompt Learning | TPAMI'26 | [link](https://pubmed.ncbi.nlm.nih.gov/42647717/) | [code](https://github.com/jiawangbai/BadCLIP) |
+| 2026.10 | Clean Data Can Still Carry Backdoors: Support-Persistent Backdoors for Model Reuse | NeurIPS'26 | [link](https://arxiv.org/abs/2610.21208) | - |
+
 
 
 #### Backdoor Defense
