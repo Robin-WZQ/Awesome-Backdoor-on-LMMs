@@ -189,7 +189,9 @@ Multimodal Models: A Survey</strong></p>
 | 2026.07 | ReShift: Aha-Moment-Driven Reasoning-Level Backdoor Attacks on Vision–Language Models | arXiv | [link](https://arxiv.org/pdf/2607.00361) | [code](https://github.com/AlbertZhaoCA/ReShift) |
 | 2026.07 | Architectural Backdoors in Vision-Language Model Supply Chains via Representation Steering | arXiv | [link](https://arxiv.org/abs/2607.25479) | - |
 | 2026.08 | Once Poisoned, Arbitrarily Controlled: A Programmable Backdoor in VLMs | arXiv | [link](https://arxiv.org/abs/2608.10959) | - |
+| 2026.08 | Anchoring Bias: A Persistent Fairness Backdoor Attack against MLLMs under Continual Learning | CIKM'26 | [link](https://arxiv.org/abs/2608.21577) | [code](https://github.com/lyygua/PFBA) |
 | 2026.09 | FreqDoor: A Hidden Trojan in the Frequency Domain for Backdoor Attacks on Vision-Language Models | arXiv | [link](https://arxiv.org/abs/2609.07048) | - |
+| 2026.10 | Under the Skin: Backdoor Infection in Multimodal Large Language Models | arXiv | [link](https://arxiv.org/abs/2610.24058) | - |
 
 
 #### Backdoor Defense
@@ -207,7 +209,10 @@ Multimodal Models: A Survey</strong></p>
 | 2026.03 | Self-Purification Mitigates Backdoors in Multimodal Diffusion Language Models | arXiv | [link](https://arxiv.org/pdf/2602.22246) | [code](https://arxiv.org/pdf/2602.22246) |
 | 2026.04 | A Patch-based Cross-view Regularized Framework for Backdoor Defense in Multimodal Large Language Models | arXiv | [link](https://arxiv.org/pdf/2604.04488) | - |
 | 2026.04 | Meta-Research on Backdoors: Dataset and Threat Model Shifts in Multimodal Backdoor Attacks | arXiv | [link](https://www.preprints.org/frontend/manuscript/e479c748fb4a67ec823add139acb1909/download_pub) | - |
+| 2026.06 | BYORn: Bootstrap Your Own Responses to Defend Large Vision-Language Models Against Backdoor Attacks | ICML'26 | [link](https://proceedings.mlr.press/v306/sabolic26a.html) | [code](https://github.com/ivansabolic/BYORn) |
 | 2026.08 | Not All Tokens Are Equal: Region-Aware Consistency Repair of Backdoors in MLLMs | arXiv | [link](https://arxiv.org/abs/2608.24354) | - |
+| 2026.09 | Selective Channel Restoration for Backdoored Vision-Language Models | arXiv | [link](https://arxiv.org/abs/2609.37759) | - |
+| 2026.10 | Purifying Backdoored Large Vision-Language Models by Removing Hijacked Directions | arXiv | [link](https://arxiv.org/abs/2610.09941) | [code](https://github.com/womeimingzi/OrthoPurify) |
 | 2026.10 | Detecting Chain-of-Thought Hijacking in Backdoored Multimodal Large Reasoning Models | arXiv | [link](https://arxiv.org/abs/2610.16598) | - |
 | 2026.10 | Beyond Static Cues: Unified Dynamic Detection of MLLM Backdoors via Dual-Flow Trajectory Analysis | ACM MM'26 | [link](https://arxiv.org/abs/2610.20319) | [code](https://github.com/kaoru0822-kitauji/EVO_Detect) |
 
@@ -267,6 +272,7 @@ Multimodal Models: A Survey</strong></p>
 | ------- | ------------------------------------------------------------ | :------: | :----------------------------------------------------------: | :-------------------------------------------------: |
 | 2026.03 | Self-Purification Mitigates Backdoors in Multimodal Diffusion Language Models | arXiv | [link](https://arxiv.org/pdf/2602.22246) | [code](https://github.com/bigglesworthnotacat/Diffusion_Self_Purification) |
 | 2026.05 | BadDLM: Backdooring Diffusion Language Models with Diverse Targets | arXiv | [link](https://arxiv.org/pdf/2605.09397) | - |
+| 2026.05 | Token by Token, Compromised: Backdoor Vulnerabilities in Unified Autoregressive Models | NeurIPS'26 | [link](https://arxiv.org/abs/2605.19227) | [code](https://github.com/multimodal-ai-lab/ToBAC) |
 | 2026.06 | BadDreamer: Transferable Backdoor Attacks against Video World Models for Autonomous Driving | arXiv | [link](https://arxiv.org/abs/2606.21172) | - |
 | 2026.07 | EmoAttack: Leveraging Adaptive Prompt Optimization for Multimodal Emotion Backdoor Attacks | IPM'26 | [link](https://www.sciencedirect.com/science/article/pii/S0306457326004358) | - |
 
