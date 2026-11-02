@@ -147,6 +147,7 @@ Multimodal Models: A Survey</strong></p>
 | 2025.03 | Efficient Input-level Backdoor Detection on Text-to-Image Synthesis via Neuron Activation Variation | arXiv    | [link](https://arxiv.org/abs/2503.06453)                                                                                    | -                                                            |
 | 2025.04 | Backdoor Defense in Diffusion Models via Spatial Attention Unlearning                            | arXiv      | [link](https://arxiv.org/abs/2504.18563)                                                                                    | -                                                            |
 | 2025.04 | Dynamic Attention Analysis for Backdoor Detection in Text-to-Image Diffusion Models              | TPAMI'25      | [link](https://arxiv.org/abs/2504.20518)                                                                                    | [code](https://github.com/Robin-WZQ/DAA)                     |
+| 2025.11 | PEPPER: Perception-Guided Perturbation for Robust Backdoor Defense in Text-to-Image Diffusion Models | Findings of EMNLP'26 | [link](https://aclanthology.org/2026.findings-emnlp.548/) | [code](https://github.com/oscarchew/t2i-backdoor-defense) |
 | 2026.01 | On the Fairness, Diversity and Reliability of Text-to-Image Generative Models |  Artificial Intelligence Review | [link](https://link.springer.com/article/10.1007/s10462-025-11424-2) | [code](https://github.com/JJ-Vice/T2I_Fairness_Diversity_Reliability) |
 | 2026.02 | Backdoor Sentinel: Detecting and Detoxifying Backdoors in Diffusion Models via Temporal Noise Consistency | arXiv | [link](https://arxiv.org/pdf/2602.01765) | - |
 | 2026.03 | BlackMirror: Black-Box Backdoor Detection for Text-to-Image Models via Instruction-Response Deviation | CVPR'26 | [link](https://arxiv.org/html/2603.05921v1) | [code](https://github.com/Ferry-Li/BlackMirror) |
@@ -254,7 +255,8 @@ Multimodal Models: A Survey</strong></p>
 | 2025.07 | VisualTrap: A Stealthy Backdoor Attack on GUI Agents via Visual Grounding Manipulation | COLM‘25  | [link](https://openreview.net/forum?id=7HPuAkgdVm#discussion) |    [code](https://github.com/whi497/VisualTrap)     |
 | 2025.09 | Realistic Environmental Injection Attacks on GUI Agents  |  arXiv   |           [link](https://arxiv.org/abs/2509.11250)           | [code](https://github.com/zhangyitonggg/attack2gui) |
 | 2025.12 | AdapAction: Adaptive Target Action Backdoor Attack against GUI Agents | CVPR'26 | [link](https://openaccess.thecvf.com/content/CVPR2026/papers/Chen_AdapAction_Adaptive_Target_Action_Backdoor_Attack_against_GUI_Agents_CVPR_2026_paper.pdf) | - |
-| 2026.03 | SlowBA: An efficiency backdoor attack towards VLM-based GUI agents | arXiv | [link](https://arxiv.org/pdf/2603.08316) | [code](https://github.com/tu-tuing/SlowBA) | 
+| 2026.03 | SlowBA: An efficiency backdoor attack towards VLM-based GUI agents | arXiv | [link](https://arxiv.org/pdf/2603.08316) | [code](https://github.com/tu-tuing/SlowBA) |
+| 2026.10 | EvolvAttack: Backdooring self Evolving VLM Agents | arXiv | [link](https://arxiv.org/abs/2610.15244) | - | 
 
 - Web Agents
   
