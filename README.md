@@ -195,6 +195,7 @@ Multimodal Models: A Survey</strong></p>
 | 2026.08 | Anchoring Bias: A Persistent Fairness Backdoor Attack against MLLMs under Continual Learning | CIKM'26 | [link](https://arxiv.org/abs/2608.21577) | [code](https://github.com/lyygua/PFBA) |
 | 2026.09 | FreqDoor: A Hidden Trojan in the Frequency Domain for Backdoor Attacks on Vision-Language Models | arXiv | [link](https://arxiv.org/abs/2609.07048) | - |
 | 2026.10 | Under the Skin: Backdoor Infection in Multimodal Large Language Models | arXiv | [link](https://arxiv.org/abs/2610.24058) | - |
+| 2026.10 | Context-Shielded Backdoor Attack against Large Vision-Language Models | arXiv | [link](https://arxiv.org/abs/2611.01252) | - |
 
 
 #### Backdoor Defense
@@ -270,6 +271,7 @@ Multimodal Models: A Survey</strong></p>
 | ------- | ------------------------------------------------------------ | :------: | :----------------------------------------------------------: | :-------------------------------------------------: |
 | 2026.02 | When Attention Betrays: Erasing Backdoor Attacks in Robotic Policies by Reconstructing Visual Tokens | ICRA'26 | [link](https://arxiv.org/abs/2602.03153) | - |
 | 2026.07 | TrustVLA: Mechanism-Guided Inference-Time Defense Against Vision-Language-Action Backdoors | arXiv | [link](https://arxiv.org/abs/2607.12571) | - |
+| 2026.10 | TMT: Runtime Backdoor Detection for Vision-Language-Action Policies on Unseen Tasks | arXiv | [link](https://arxiv.org/abs/2610.09462) | [code](https://zzr42.github.io/tmt/) |
 
 ### Others
 | Time    | Title                                                        |  Venue   |                            Paper                             |                        Code                         |
