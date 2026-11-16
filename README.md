@@ -86,6 +86,8 @@ Multimodal Models: A Survey</strong></p>
 | 2026.06 | Beyond Native Success: Auditing Deployment-Interface Exposure of CLIP Backdoors | arXiv | [link](https://arxiv.org/pdf/2606.17815) | - |
 | 2026.06 | Region-Level Black-Box Defense Against Stealthy Embedding-Space Backdoors in CLIP | PAKDD'26 | [link](https://link.springer.com/chapter/10.1007/978-981-92-1947-6_20) | [code](https://github.com/wsu-cyber-security-lab-ai/CLIPGuard) |
 | 2026.08 | When Modalities Fail to Tango: Conformal Backdoor Detection in Multimodal Contrastive Learning | arXiv | [link](https://arxiv.org/abs/2608.04052) | - |
+| 2026.11 | BAPLe++: Cross-Model Transferability and Prompt-Level Defense of Backdoors in Medical Foundation Models | arXiv | [link](https://arxiv.org/abs/2611.10764) | [code](https://github.com/Ufaqkhan/Baple-Plus-Plus) |
+| 2026.11 | GARD: Gradient-Guided Adversarial Representation Defense against Backdoors in Multimodal Contrastive Learning Models | arXiv | [link](https://arxiv.org/abs/2611.14143) | - |
 
 ### Text Conditioned Diffusion Models
 
@@ -130,6 +132,7 @@ Multimodal Models: A Survey</strong></p>
 | 2026.06 | GoodDiffusion: Proactive Copyright Protection for Diffusion Bridge Models via Learnable Sample-specific Signatures | arXiv | [link](https://arxiv.org/pdf/2606.29759) | [code](https://github.com/qsx830/GoodDiffusion) |
 | 2026.06 | Retrievals Can Be Detrimental: Unveiling the Backdoor Vulnerability of Retrieval-Augmented Diffusion Models | ACL'26 | [link](https://aclanthology.org/2026.acl-long.242.pdf) | [code](https://github.com/ffhibnese/BadRDM_Backdoor_RAG_diffusion_models) |
 | 2026.06 | Customization under Fire: Plugin Poisoning in Text-to-Image Ecosystem | CCS'26 | [link](https://arxiv.org/pdf/2606.09151) | - |
+| 2026.06 | Towards Human-Imperceptible Backdoor Attacks on Text-to-Image Diffusion Models | CVPR'26 | [link](https://openaccess.thecvf.com/content/CVPR2026/html/Wu_Towards_Human-Imperceptible_Backdoor_Attacks_on_Text-to-Image_Diffusion_Models_CVPR_2026_paper.html) | - |
 | 2026.07 | Reducing Semantic Trigger Leakage in Backdoored Text-to-Image Diffusion Models | ICME'26 | [link](https://ieeexplore.ieee.org/document/11605619) | - |
 | 2026.07 | Cross-Lingual Vulnerabilities of Text-to-Image Models: Evaluating Data Poisoning Attacks Across Ten Languages | ICPR'26 | [link](https://link.springer.com/chapter/10.1007/978-3-032-31441-3_7) | - |
 
