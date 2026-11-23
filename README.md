@@ -88,6 +88,7 @@ Multimodal Models: A Survey</strong></p>
 | 2026.08 | When Modalities Fail to Tango: Conformal Backdoor Detection in Multimodal Contrastive Learning | arXiv | [link](https://arxiv.org/abs/2608.04052) | - |
 | 2026.11 | BAPLe++: Cross-Model Transferability and Prompt-Level Defense of Backdoors in Medical Foundation Models | arXiv | [link](https://arxiv.org/abs/2611.10764) | [code](https://github.com/Ufaqkhan/Baple-Plus-Plus) |
 | 2026.11 | GARD: Gradient-Guided Adversarial Representation Defense against Backdoors in Multimodal Contrastive Learning Models | arXiv | [link](https://arxiv.org/abs/2611.14143) | - |
+| 2026.11 | DetectViT: Test-time Backdoor Detection for Vision Transformers via Inter-Head Attention Discrepancy | arXiv | [link](https://arxiv.org/abs/2611.23770) | [code](https://github.com/siquanhuang/DetectViT) |
 
 ### Text Conditioned Diffusion Models
 
@@ -197,6 +198,7 @@ Multimodal Models: A Survey</strong></p>
 | 2026.08 | Once Poisoned, Arbitrarily Controlled: A Programmable Backdoor in VLMs | arXiv | [link](https://arxiv.org/abs/2608.10959) | - |
 | 2026.08 | Anchoring Bias: A Persistent Fairness Backdoor Attack against MLLMs under Continual Learning | CIKM'26 | [link](https://arxiv.org/abs/2608.21577) | [code](https://github.com/lyygua/PFBA) |
 | 2026.09 | FreqDoor: A Hidden Trojan in the Frequency Domain for Backdoor Attacks on Vision-Language Models | arXiv | [link](https://arxiv.org/abs/2609.07048) | - |
+| 2026.09 | Unveiling Trojan Vulnerability in Multimodal Large Language Models with Chain-of-Thought Reasoning | TDSC'26 | [link](https://ieeexplore.ieee.org/document/11701518) | - |
 | 2026.10 | Under the Skin: Backdoor Infection in Multimodal Large Language Models | arXiv | [link](https://arxiv.org/abs/2610.24058) | - |
 | 2026.10 | Context-Shielded Backdoor Attack against Large Vision-Language Models | arXiv | [link](https://arxiv.org/abs/2611.01252) | - |
 
@@ -249,6 +251,7 @@ Multimodal Models: A Survey</strong></p>
 | 2026.05 | Towards Backdoor-Based Ownership Verification for Vision-Language-Action Models | arXiv | [link](https://arxiv.org/pdf/2605.09005) | - |
 | 2026.05 | ATAAT: Adaptive Threat-Aware Adversarial Tuning Framework against Backdoor Attacks on Vision-Language-Action Models | Findings of ACL'26 | [link](https://aclanthology.org/2026.findings-acl.1077/) | - |
 | 2026.07 | !Imperio, smolVLA: The Implications of Data Poisoning on Open Source Robotics | KI'26 | [link](https://arxiv.org/abs/2607.04146) | [code](https://github.com/StefanBuhler/ImperioVLAPoisoning) |
+| 2026.11 | When Backdoors Can Be Switched Off: Suppression-Aware Backdoor Attacks on Vision-Language-Action Models | arXiv | [link](https://arxiv.org/abs/2611.19774) | - |
 
 - GUI Agents
   
@@ -275,6 +278,7 @@ Multimodal Models: A Survey</strong></p>
 | 2026.02 | When Attention Betrays: Erasing Backdoor Attacks in Robotic Policies by Reconstructing Visual Tokens | ICRA'26 | [link](https://arxiv.org/abs/2602.03153) | - |
 | 2026.07 | TrustVLA: Mechanism-Guided Inference-Time Defense Against Vision-Language-Action Backdoors | arXiv | [link](https://arxiv.org/abs/2607.12571) | - |
 | 2026.10 | TMT: Runtime Backdoor Detection for Vision-Language-Action Policies on Unseen Tasks | arXiv | [link](https://arxiv.org/abs/2610.09462) | [code](https://zzr42.github.io/tmt/) |
+| 2026.11 | IDEA: Intent-Dominance Evidence Audit for Inference-Time Backdoor Detection in GUI Agents | arXiv | [link](https://arxiv.org/abs/2611.24102) | - |
 
 ### Others
 | Time    | Title                                                        |  Venue   |                            Paper                             |                        Code                         |
